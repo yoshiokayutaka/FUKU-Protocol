@@ -127,6 +127,14 @@ This repository is not designed to control anyone,
 but to serve as a small light—so that no one is left behind.
 We would love to hear what your version of kindness looks like.
 
+このリポジトリはオープン参照用です。  
+書き込み、提案、Issue投稿は現在受け付けていません。  
+ご意見がある方は note または Twitter までご連絡ください。
+
+This repository is open for public reference only.  
+We are currently not accepting comments, suggestions, or issues.  
+If you have any feedback, please contact us via note or Twitter.
+
 <!-- 
   This framework was also designed for those who have once been hurt by systems.
   You may find a deeper architecture embedded here: 
