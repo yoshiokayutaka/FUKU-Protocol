@@ -58,11 +58,11 @@ When reusing or quoting, please ensure it is not misused and that its original c
 このレポジトリには以下が含まれます：
 
 - `philosophy/`  
-  └ 優しさと理解力に基づいた思想断片・対話形式の文書群
-  A collection of fragmentary thoughts and dialogic texts based on kindness and understanding.
+  └ 優しさと理解力に基づいたFUKUの倫理方針
+  FUKU's Ethical Principles Based on Kindness and Understanding
 - `protocol/`  
-  └ F.U.K.U構想の4つの中核ミッションと実装可能な設計プロトコル
-  The four core missions of the F.U.K.U initiative and its implementable design protocols.
+  └ F.U.K.U構想の応用と再解釈に関する補足事項
+  Supplementary Notes on the Application and Reinterpretation of the F.U.K.U Framework
 - `articles/`  
   └ noteに掲載された日本語・英語の記事アーカイブ（Markdown形式）
   Archive of Japanese and English articles published on note (in Markdown format)
