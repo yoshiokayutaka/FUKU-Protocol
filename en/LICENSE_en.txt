@@ -1,0 +1,41 @@
+FUKU License (Based on the MIT License)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this project and associated materials (the "FUKU Framework"), to use, share, and adapt them under the following conditions:
+
+1. Attribution and Link
+Clear credit to the original author (Yutaka Yoshioka) and a link to the official repository must be included in any reuse or distribution.
+
+2. Ethical Use
+This framework is shared with the intention to build a future based on kindness, understanding, and non-violence.
+By using this material, you agree not to employ it for:
+
+Military, surveillance, or coercive purposes
+Political or religious indoctrination
+Profit-driven exploitation that disregards vulnerable individuals
+Any form of use that strips the text from its original ethical context
+
+3. Shared Ethics
+If you create derivative works, please make your additions open and accessible, and include a clear note that the work is a reinterpretation of the FUKU framework.
+You are encouraged to add your own version of kindness — as long as it is done without harming or silencing others.
+
+This license is designed not to restrict creativity, but to encourage it—
+within a shared ethical space where kindness, understanding, and mutual respect are foundational.
+
+このFUKUフレームワークおよび関連資料は、以下の条件に基づき、自由に使用・共有・改変することが許可されます。
+
+1. 出典の明示とリンクの記載
+著作者（吉岡有隆）の名前と、公式リポジトリへのリンクを必ず記載してください。
+
+2. 倫理的使用のお願い
+このフレームワークは、「暴力に依らない未来」や「優しさと理解に基づく共創」を願って公開されています。
+以下のような目的での使用は禁止します：
+
+軍事・監視・強制などの用途
+政治的または宗教的な洗脳・支配のための流用
+弱者や被害者を切り捨てるような営利目的の利用
+文脈を無視した切り取り・歪曲による再利用
+
+3. 共創の倫理
+派生作品を作る場合は、あなた自身の“やさしさ”を込めて再構成してください。
+ただし、それが誰かを傷つけたり、沈黙させたりするものであってはなりません。
+
+このライセンスは、創造性を制限するのではなく、優しさ、理解、相互尊重を基盤とする倫理的な共有空間内で創造性を奨励するように設計されています。
