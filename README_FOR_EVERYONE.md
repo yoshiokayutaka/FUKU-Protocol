@@ -50,6 +50,17 @@ FUKUは、やさしさを“正解”で定義するものではありません�
 
 — 吉岡有隆（F.U.K.U構想 制作者）
 
+---
+
+FUKUコミュニティに参加してみよう / Join the FUKU Community
+
+ディスカッションをしたり、アイデアを共有したり、ただ挨拶したり — Discordで交流しましょう！
+Discuss, share ideas, or just say hi — we're on Discord!  
+
+[Join our Discord]([https://](https://discord.gg/nFbT2sfY))
+
+---
+
 FUKU for Everyone
 — To ensure kindness doesn't belong only to the privileged few
 
