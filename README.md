@@ -53,6 +53,15 @@ When reusing or quoting, please ensure it is not misused and that its original c
 
 ---
 
+FUKUコミュニティに参加してみよう / Join the FUKU Community
+
+ディスカッションをしたり、アイデアを共有したり、ただ挨拶したり — Discordで交流しましょう！
+Discuss, share ideas, or just say hi — we're on Discord!  
+
+[Join our Discord]([https://](https://discord.gg/nFbT2sfY))
+
+---
+
 構成 / Contents
 
 このレポジトリには以下が含まれます：
