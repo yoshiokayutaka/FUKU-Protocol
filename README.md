@@ -58,7 +58,7 @@ FUKUコミュニティに参加してみよう / Join the FUKU Community
 ディスカッションをしたり、アイデアを共有したり、ただ挨拶したり — Discordで交流しましょう！
 Discuss, share ideas, or just say hi — we're on Discord!  
 
-[Join our Discord]([https://](https://discord.gg/nFbT2sfY))
+Join our Discord　https://discord.gg/nFbT2sfY
 
 ---
 
