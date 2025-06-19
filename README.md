@@ -66,15 +66,15 @@ Join our Discord　https://discord.gg/nFbT2sfY
 
 このレポジトリには以下が含まれます：
 
+- `articles/`  
+  └ noteに掲載された日本語・英語の記事アーカイブ（Markdown形式）
+  Archive of Japanese and English articles published on note (in Markdown format)
 - `philosophy/`  
   └ 優しさと理解力に基づいたFUKUの倫理方針
   FUKU's Ethical Principles Based on Kindness and Understanding
 - `protocol/`  
   └ F.U.K.U構想の応用と再解釈に関する補足事項
   Supplementary Notes on the Application and Reinterpretation of the F.U.K.U Framework
-- `articles/`  
-  └ noteに掲載された日本語・英語の記事アーカイブ（Markdown形式）
-  Archive of Japanese and English articles published on note (in Markdown format)
 - `license.txt`  
   └ 利用範囲と再配布に関する注意事項
   Usage and Redistribution Guidelines
