@@ -1,4 +1,4 @@
-【優しさが、誰かを縛らないように】──F.U.K.Uが未来で迷子にならないために
+FUKU Philosophy5: 【優しさが、誰かを縛らないように】──F.U.K.Uが未来で迷子にならないために　So That Kindness Doesn’t Become a Chain — Ensuring F.U.K.U Doesn’t Lose Its Way in the Future"
 
 FUKU（Futurable Union for Kindness & Understanding）という構想には、
 「優しさ」と「理解力」を元に少しだけましな未来を作れたらという願いがこめられています。
@@ -15,7 +15,7 @@ FUKU（Futurable Union for Kindness & Understanding）という構想には、
 
 だからこそFUKUはその危うさをちゃんと見つめて、「迷わないようにする為の灯り」を、いまのうちに置いておきたいと思うのです。
 
-1.人の気持ちは、点数じゃない
+1｜人の気持ちは、点数じゃない
 FUKUでは「理解」という言葉にスコアや数値はつけません。人の気持ちは数字では測れないし、正解があるわけでもないからです。
 
 「泣いている理由がわからない」
@@ -24,28 +24,108 @@ FUKUでは「理解」という言葉にスコアや数値はつけません。�
 ──そう感じたときこそ、側に居る事。
 FUKUが目指すのは、その“分からなさ”ごと受け止められる社会です。
 
-2.対話が、いちばん大切なインフラ
+2｜対話が、いちばん大切なインフラ
 どんなに賢い技術よりも、
 人と人が話す事、聞く事の方がずっと大切です。
 
 FUKUは誰かの声を「正しい」「間違っている」と決めつける場所ではありません。例え意見が違っても沈黙が続いても、それをそのまま大事にする場所でありたいと思っています。
 
-3.FUKUは、変わり続けます
+3｜FUKUは、変わり続けます
 一度決めた正しさに、誰かを従わせたくありません。
 FUKUの考え方はいつでも書き換えられます。
 誰かが「ちょっと違うと思う」と声をあげてくれる事を何よりも大切にします。
 そうでなければ、それはただの“支配”になってしまうから。
 
-4.この構想を見守るのは、“痛みを知る人”であってほしい
+4｜この構想を見守るのは、“痛みを知る人”であってほしい
 もしこの考えが、制度や仕組みに育っていくとしても、その運営や見張り役には、かつて生きづらさを抱えた人たちでいてほしいと思います。
+
 何故なら、そういう人たちこそが機械には見えない「境界線」を知っているから。
 
 FUKUは、誰かの心を操作するためのものではありません。優しさのふりをして誰かの自由を奪うものでもありません。
+
 むしろ「すぐには理解されない想い」がちゃんとこの世界に存在していいんだと、静かに証明していくような場所でありたい。
+
 本当の優しさは答えを出すことじゃなくて、一緒に考えること。「それでも、側に居る」と選び続けること。
+
 FUKUが目指しているのは、そんな優しさを積み重ねて出来ていく、未来の風景です。
 
 F.U.K.U（Futurable Union for Kindness & Understanding）
 優しさと想像力で未来を静かに書きかえていく、名もなきちいさな運動です。特別な資格はいりません。共感と対話、そして、ひとつの小さな希望から始められます。
 
 吉岡有隆
+
+【So That Kindness Doesn’t Become a Cage】
+— How F.U.K.U Hopes to Avoid Losing Its Way
+
+The concept of FUKU (Futurable Union for Kindness & Understanding) carries a quiet wish:
+to shape a slightly better future through kindness and the power of understanding.
+
+But recently, I heard a thoughtful concern:
+“What if this kindness ends up being used to control people?”
+……And I believe that worry is a deeply important one.
+
+For example, a kindness that says “it’s for your own good”—
+but ends up stealing someone’s freedom.
+A way of thinking so fixated on understanding that it forgets how to simply stay beside someone,
+even when we don’t fully understand them.
+
+Kindness can quietly stop being kind.
+That moment can come quickly—and often, unnoticed.
+
+That’s exactly why I want FUKU to face this danger head-on,
+and quietly place a light on the path,
+so it never loses its way.
+
+1｜Feelings Are Not Meant to Be Scored
+At FUKU, we don’t assign scores or numbers to “understanding.”
+Human feelings aren’t something that can—or should—be measured.
+
+There are moments when we can’t explain why we’re crying.
+Or we don’t know how to respond to someone’s silent pause.
+
+And yet—especially in those moments—what matters is staying close.
+FUKU dreams of a society that embraces even the not-knowing.
+
+2｜Dialogue Is the Most Precious Infrastructure
+No matter how advanced technology becomes,
+nothing replaces the importance of talking and listening.
+
+FUKU is not a place that labels voices as right or wrong.
+Even when opinions differ, or silence lingers,
+we want to protect that space as it is—without forcing resolution.
+
+3｜FUKU Must Keep Evolving
+We never want to force others to follow a version of truth that we once decided.
+FUKU’s ideas are always open to being rewritten.
+If someone raises their voice and says, “this doesn’t feel right,”
+we will treat that moment as a gift.
+
+Otherwise, we’d simply become another form of control.
+
+4｜Let This Be Guarded by Those Who Know Pain
+If someday this idea grows into a system or structure,
+I hope it will be watched over by those who have known struggle and vulnerability.
+
+Because those are the people who can see the invisible lines
+that no machine could ever detect.
+
+FUKU is not here to manipulate hearts.
+It’s not a tool to take away freedom in the name of kindness.
+
+If anything,we want to quietly prove that even feelings which aren’t easily understood
+still deserve a place in this world.
+
+True kindness doesn’t mean giving answers.
+It means choosing to stay.
+To keep saying, “I’m still here.”
+
+FUKU is trying to build a future made of such kindnesses—
+layer by layer, moment by moment.
+
+F.U.K.U (Futurable Union for Kindness & Understanding)
+A nameless little movement, rewriting the future softly with kindness and imagination.
+No special qualifications required.
+Just empathy, dialogue, and a single, small hope.
+
+Yutaka Yoshioka
+
