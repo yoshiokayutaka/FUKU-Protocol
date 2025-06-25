@@ -13,3 +13,30 @@
 // What if empathy was the only required dependency?
 // How would you install it?
 // Where is the --force flag for kindness?
+
+
+// ----------------------------------------
+//   Notes on the Design Philosophy
+// ----------------------------------------
+
+// This is not just a tool for the 21st century.
+// It is an attempt to design the *heart* of the 21st century.
+//
+// The century has already begun. The satellites are flying,
+// the algorithms are learning, and yet—
+// the systems meant to carry empathy, care, and support
+// are still stuck somewhere in the 20th.
+//
+// Technology has moved on, but compassion remains uncompiled.
+// Our protocols are precise, but kindness still lacks interoperability.
+//
+// Perhaps the future has not arrived
+// because someone keeps delaying it.
+// Or perhaps it is we ourselves, unknowingly hesitating.
+//
+// Even so, this code speaks softly:
+// “What we have is not enough.”
+//
+// This is a quiet act of resistance—
+// a belief that *designing kindness* is part of what makes a true future.
+
