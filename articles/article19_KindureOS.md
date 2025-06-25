@@ -65,7 +65,7 @@ KindureOSが描く未来……
 
 KindureOS（カインデュア）はまだ始まったばかりの構想です。でももしあなたがこの文章を読んで、少しでも「やさしいOS」に興味を持ってくれたなら、それがもう一つの実装なのだと思います。
 
-どうか、あなたの知恵や想いも、KindOSという地図に重ねてください。
+どうか、あなたの知恵や想いも、KindureOSという地図に重ねてください。
 
 KindureOS設計図（仮公開予定）
 FUKU構想アーカイブ：https://github.com/yoshiokayutaka/FUKU-Protocol
@@ -81,7 +81,7 @@ but also a map that gently heals someone’s loneliness.
 
 This single sentence captures the heart of KindureOS.
 
-Born from the ideas behind the FUKU Initiative and the MioMeteo app, KindureOS is a new vision for an operating system that embodies empathy and compassion.
+Born from the ideas behind the FUKU Initiative and the MeteOmo app, KindureOS is a new vision for an operating system that embodies empathy and compassion.
 
 KindureOS = Kindness + Future.
 
