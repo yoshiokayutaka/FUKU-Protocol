@@ -116,6 +116,16 @@ When using this content, you must clearly display proper credit.
 
 ---
 
+### 著作者情報
+
+- 名前：吉岡有隆（Yutaka Yoshioka）  
+- 公開日：2025年6月19日（JST）  
+- SNS：  
+  - [@吉岡有隆](https://x.com/yoshiokayutaka_?s=11)（思想・創作）  
+  - [@yutakayoshioka](https://x.com/yutakaapp_?s=11)（開発・技術）
+
+---
+
 ## Contact
 
 基person: Yutaka Yoshioka / 吉岡有隆  
