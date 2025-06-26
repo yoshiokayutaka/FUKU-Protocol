@@ -18,6 +18,15 @@ FUKU ライセンス (Based on the MIT License)
 派生作品を作る場合は、あなた自身の“やさしさ”を込めて再構成してください。
 ただし、それが誰かを傷つけたり、沈黙させたりするものであってはなりません。
 
+4. 再配布と派生作品について
+本フレームワークを改変・再配布する場合にも、本ライセンスと倫理条項を明示し、同様の条件のもとで公開してください。
+
+5. 免責事項
+本フレームワークは現状のまま提供されており、使用に伴ういかなる損害についても、著作者は責任を負いません。
+
+6. ライセンスの性格
+本ライセンスはMITライセンスに基づきつつ、「優しさと理解に基づく倫理的共有空間」を目指した独自の理念を付与しています。
+
 このライセンスは、創造性を制限するのではなく、優しさ、理解、相互尊重を基盤とする倫理的な共有空間内で創造性を奨励するように設計されています。
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this project and associated materials (the "FUKU Framework"), to use, share, and adapt them under the following conditions:
