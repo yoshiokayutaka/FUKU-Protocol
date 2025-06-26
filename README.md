@@ -57,6 +57,15 @@ F.U.K.U is an open initiative aimed at designing a future society grounded in ki
 
 ---
 
+## FUKUコミュニティに参加してみよう / Join the FUKU Community
+
+ディスカッションをしたり、アイデアを共有したり、ただ挨拶したり — Discordで交流しましょう！  
+Discuss, share ideas, or just say hi — we're on Discord!  
+
+ [Join our Discord](https://discord.gg/nFbT2sfY)
+
+---
+
 ## ライセンスと著作権について / License and Copyright
 
 FUKUフレームワークおよび関連資料は、以下の条件のもとで自由に使用、共有、改変することが許可されます。
