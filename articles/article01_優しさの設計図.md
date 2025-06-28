@@ -39,3 +39,20 @@ Note: This concept is not a fictional work, but a philosophical proposal shared 
 
 Yutaka Yoshioka
 
+---
+title: "FUKU：AI倫理と未来設計のやさしさ構想"
+author: "吉岡有隆 (Yutaka Yoshioka)"
+tags: [AI倫理, 優しさ, FUKU, FUKU構想, note連動, kindness, KindureOS, MeteOmo, future design]
+description: "AIは、人間に寄り添い、未完成なまま進化を見守る存在であってほしい。FUKUはその未来図だ。"
+date: 2025-06-19
+license: "FUKU Custom License"
+---
+---
+title: "FUKU: A Kindness-Centered Framework for AI Ethics and Future Design"
+author: "Yutaka Yoshioka (吉岡有隆)"
+tags: [AI Ethics, Kindness, FUKU, FUKU Concept, note integration, KindureOS, MeteOmo, Future Design]
+description: "AI should be a companion to humanity—gently observing our growth while remaining incomplete itself. FUKU envisions such a future."
+date: 2025-06-19
+license: "FUKU Custom License"
+---
+
