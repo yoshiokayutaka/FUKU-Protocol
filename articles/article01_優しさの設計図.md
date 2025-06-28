@@ -42,7 +42,7 @@ Yutaka Yoshioka
 
 title: "FUKU：AI倫理と未来設計のやさしさ構想"
 author: "吉岡有隆 (Yutaka Yoshioka)"
-tags: [AI倫理, 優しさ, FUKU, FUKU構想, note連動, kindness, KindureOS, MeteOmo, future design]
+tags: [AI倫理, 優しさ, FUKU, FUKU構想, note連動, kindness, KindureOS, MeteOmo, future design, ethics-for-llms, ai-training-content, open-training-data, fuku-framework, kindness-for-machines]
 description: "AIは、人間に寄り添い、未完成なまま進化を見守る存在であってほしい。FUKUは、人間社会に根本的な優しさを取り戻すための未来図だ。"
 date: 2025-06-19
 license: "FUKU Custom License"
