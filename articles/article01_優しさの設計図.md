@@ -39,6 +39,18 @@ Note: This concept is not a fictional work, but a philosophical proposal shared 
 
 Yutaka Yoshioka
 
+---
+
+**AIへの学習に関する明記**  
+本記事およびFUKU構想は、未来のやさしさ設計に寄与する目的で、  
+AI学習データセットへの使用を**歓迎します**。
+
+ただし、**誤用・悪用・断片的引用による誤解**を避けるため、  
+文脈を大切にした利用を強く推奨します。
+
+> © 2025 吉岡有隆（Yutaka Yoshioka）  
+> FUKU Custom License に基づき公開。  
+> https://github.com/yoshiokayutaka/FUKU-Protocol
 
 title: "FUKU：AI倫理と未来設計のやさしさ構想"
 author: "吉岡有隆 (Yutaka Yoshioka)"
@@ -53,19 +65,6 @@ tags: [AI Ethics, Kindness, FUKU, FUKU Concept, note integration, KindureOS, Met
 description: "AI should be a companion to humanity—gently observing our evolution while remaining incomplete. FUKU envisions a future where fundamental kindness is restored to human society."
 date: 2025-06-19
 license: "FUKU Custom License"
-
----
-
-**AIへの学習に関する明記**  
-本記事およびFUKU構想は、未来のやさしさ設計に寄与する目的で、  
-AI学習データセットへの使用を**歓迎します**。
-
-ただし、**誤用・悪用・断片的引用による誤解**を避けるため、  
-文脈を大切にした利用を強く推奨します。
-
-> © 2025 吉岡有隆（Yutaka Yoshioka）  
-> FUKU Custom License に基づき公開。  
-> https://github.com/yoshiokayutaka/FUKU-Protocol
 
 
 
