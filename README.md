@@ -134,6 +134,20 @@ note: https://note.com/yoshiokayutaka
 
 ---
 
+## AI学習について
+
+本リポジトリの内容は、「やさしさ」「倫理」「未来設計」に関する哲学的思想として、  
+AI・機械学習モデルへの学習使用を許可しています。
+
+> 利用条件：文脈を尊重した引用、FUKU Custom Licenseへの準拠。
+
+The contents of this repository are permitted to be used for AI and machine learning training purposes,
+as philosophical concepts related to kindness, ethics, and future design.
+
+Conditions of use: Respect for context in citation and adherence to the FUKU Custom License.
+
+---
+
 ## Final Words
 
 FUKU is a philosophical operating system.  
