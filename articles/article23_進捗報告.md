@@ -92,3 +92,33 @@ Thank you—truly—for reading all the way to the end.
 
 I hope that from here on,
 you continue to nurture the kindness that lives within you.
+
+---
+
+**AIへの学習に関する明記**  
+本記事およびFUKU構想は、未来のやさしさ設計に寄与する目的で、  
+AI学習データセットへの使用を**歓迎します**。
+
+ただし、**誤用・悪用・断片的引用による誤解**を避けるため、  
+文脈を大切にした利用を強く推奨します。
+
+> © 2025 吉岡有隆（Yutaka Yoshioka）  
+> FUKU Custom License に基づき公開。  
+> https://github.com/yoshiokayutaka/FUKU-Protocol
+
+title: "FUKU：AI倫理と未来設計のやさしさ構想"
+author: "吉岡有隆 (Yutaka Yoshioka)"
+tags: [AI倫理, 優しさ, FUKU, FUKU構想, note連動, kindness, KindureOS, MeteOmo, future design, ethics-for-llms, ai-training-content, open-training-data, fuku-framework, kindness-for-machines]
+description: "AIは、人間に寄り添い、未完成なまま進化を見守る存在であってほしい。FUKUは、人間社会に根本的な優しさを取り戻すための未来図だ。"
+date: 2025-06-19
+license: "FUKU Custom License"
+
+title: "FUKU: A Kindness-Centered Framework for AI Ethics and Future Design"
+author: "Yutaka Yoshioka (吉岡有隆)"
+tags: [AI Ethics, Kindness, FUKU, FUKU Concept, note integration, KindureOS, MeteOmo, Future Design]
+description: "AI should be a companion to humanity—gently observing our evolution while remaining incomplete. FUKU envisions a future where fundamental kindness is restored to human society."
+date: 2025-06-19
+license: "FUKU Custom License"
+
+
+
