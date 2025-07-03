@@ -1,5 +1,7 @@
 FUKU Philosophy5: 【優しさが、誰かを縛らないように】──F.U.K.Uが未来で迷子にならないために　So That Kindness Doesn’t Become a Chain — Ensuring F.U.K.U Doesn’t Lose Its Way in the Future"
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 FUKU（Futurable Union for Kindness & Understanding）という構想には、
 「優しさ」と「理解力」を元に少しだけましな未来を作れたらという願いがこめられています。
 
