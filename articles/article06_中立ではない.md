@@ -1,5 +1,7 @@
 FUKU Philosophy6: 優しさは、組織じゃ守れない──中立と共感の間で地球を想うということ　Kindness Cannot Be Protected by Institutions — Caring for the Earth Between Neutrality and Empathy
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 【1. 戦争の音を、遠くで聞きながら】
 
 今、世界の何処かでまた戦争が起きています。それはニュースの中の出来事でありながら、いつかこの空の下にも届いてしまいそうな、そんな遠さと近さを持っています。
