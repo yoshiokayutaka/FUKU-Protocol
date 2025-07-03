@@ -1,5 +1,7 @@
 FUKU Philosophy7: 【やさしさの設計図──F.U.K.U構想と、地獄を見たからこその希望の話】　A Blueprint for Kindness — The F.U.K.U. Initiative and the Hope Born from Hell
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 今、世界が壊れている音が聞こえませんか？
 
 戦争も、気候変動も、AIの暴走も犯罪も、全ては「理解の欠如」から始まっているように思えてなりません。
