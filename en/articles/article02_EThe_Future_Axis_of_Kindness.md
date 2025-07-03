@@ -1,5 +1,7 @@
 FUKU Philosophy2: 【優しさのインフラ設計】──F.U.K.Uが目指す四つの未来軸　Kindness as Infrastructure — Four Future Pathways Envisioned by F.U.K.U
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 今、世界の設計図が大きく書き換えられようとしています。
 気候変動、AIの急速な進化、戦争や格差の拡大。知的犯罪の増加。
 その全てが、無意識のうちに組み込まれた「暴力的な前提」によって動いているように私は感じます。
