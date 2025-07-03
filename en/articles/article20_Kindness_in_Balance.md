@@ -1,5 +1,7 @@
 FUKU Philosophy20: 【F.U.K.U.】AIと優しさのバランスを考える 〜FUKU構想の視点から〜　"Balancing AI and Kindness – A Perspective from the FUKU Initiative"
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 「この社会に、本当にやさしさは残っているのだろうか？」
 
 そんな問いからFUKU構想は生まれました。
