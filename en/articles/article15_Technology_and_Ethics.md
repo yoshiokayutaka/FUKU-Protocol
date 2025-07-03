@@ -1,5 +1,7 @@
 FUKU Philosophy15: 「やさしさが構造を変える日」── FUKU構想が見つめる、これからの技術と倫理の話　"The Day Kindness Reshapes Our Systems" — A Vision of Technology and Ethics Through the Lens of the FUKU Initiative
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 今日のおにぎりと、見えない誰かの話……
 
 朝、コンビニで買ったおにぎりを口に運びながら、ふと思いました。
