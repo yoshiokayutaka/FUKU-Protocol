@@ -1,5 +1,7 @@
 FUKU Philosophy25: 【F.U.K.U.】大学進学率を引き上げたい──「私」の想いとFUKUからの提案　"Raising University Enrollment Rates — My Vision and a Proposal from FUKU"
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 私は、生活保護世帯出身の子供達が、環境に左右されることなく公平に大学へ進学出来る社会を作れたら良いのにと思います。それはFUKUという「やさしさの設計構想」の中核でもあります。
 
 現実に横たわる格差……
