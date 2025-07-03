@@ -1,5 +1,7 @@
 FUKU Philosophy16: 【F.U.K.U.】思想のやさしいライセンス文　Gentle License Statement for the F.U.K.U. Philosophy
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 やさしさの設計に関する使用方針（FUKUライセンス案）
 
 このFUKU思想、および関連する文章・図表・設計案は、誰でも自由に読んで、考えて、参考にしていただいてかまいません。
