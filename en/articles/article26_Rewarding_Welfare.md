@@ -1,5 +1,7 @@
 FUKU Philosophy26: 【F.U.K.U.】「報われる福祉」を 作るために　"Building a Welfare System That Truly Rewards Care Work"
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 ――見えない価値を、ちゃんと見えるように
 
 福祉の仕事は、人の「生きる」に真っ直ぐ関わる本質的な営みです。
