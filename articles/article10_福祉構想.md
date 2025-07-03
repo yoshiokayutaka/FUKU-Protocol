@@ -1,5 +1,7 @@
 FUKU Philosophy10: 【FUKU福祉構想v1.0】――支援される は、恥ずかしいことではない。　FUKU Welfare Design v1.0 — To Be Supported Is Not a Shame.
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 私達は、誰もが誰かに支えられて生きています。
 けれど社会の中ではまだ「支援される側」がどこか“下”のように見られてしまう。
 
