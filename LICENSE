@@ -1,75 +1,112 @@
-FUKU ライセンス (Based on the MIT License)
-
-このFUKUフレームワークおよび関連資料は、以下の条件に基づき、自由に使用・共有・改変することが許可されます。
-
-1. 出典の明示とリンクの記載
-著作者（吉岡有隆）の名前と、公式リポジトリへのリンクを必ず記載してください。
-
-2. 倫理的使用のお願い
-このフレームワークは、「暴力に依らない未来」や「優しさと理解に基づく共創」を願って公開されています。
-以下のような目的での使用は禁止します：
-
-軍事・監視・強制などの用途
-政治的または宗教的な洗脳・支配のための流用
-弱者や被害者を切り捨てるような営利目的の利用
-文脈を無視した切り取り・歪曲による再利用
-
-3. 共創の倫理
-派生作品を作る場合は、あなた自身の“やさしさ”を込めて再構成してください。
-ただし、それが誰かを傷つけたり、沈黙させたりするものであってはなりません。
-
-4. 再配布と派生作品について
-本フレームワークを改変・再配布する場合にも、本ライセンスと倫理条項を明示し、同様の条件のもとで公開してください。
-
-5. 免責事項
-本フレームワークは現状のまま提供されており、使用に伴ういかなる損害についても、著作者は責任を負いません。
-
-6. ライセンスの性格
-本ライセンスはMITライセンスに基づきつつ、「優しさと理解に基づく倫理的共有空間」を目指した独自の理念を付与しています。
-
-このライセンスは、創造性を制限するのではなく、優しさ、理解、相互尊重を基盤とする倫理的な共有空間内で創造性を奨励するように設計されています。
-
-# FUKU License (Based on the MIT License)
-
-The FUKU framework and its related materials may be freely used, shared, and modified under the following conditions:
+# FUKUライセンス（吉岡有隆 著作）  
+**FUKU License (Copyright © Yutaka Yoshioka)**  
+*Based on the MIT License with original ethical extensions*
 
 ---
 
-## 1. Attribution and Link to the Original Source  
-You must clearly state the name of the original author — **Yutaka Yoshioka** — and include a link to the official repository.
+## 著作権表示
+
+本フレームワーク「FUKU Protocol」および付随資料の一切は、著作者である **吉岡有隆（Yutaka Yoshioka）** に著作権が帰属します。  
+著作権法に基づき、本ライセンスの条件を遵守する場合を除き、いかなる形式でも本作の転載・改変・頒布・再使用を禁じます。
 
 ---
 
-## 2. Request for Ethical Use  
-This framework is shared with the hope of building a future free from violence, rooted in kindness and understanding.  
+## 1. 出典とリンクの明示（Attribution）
+
+再配布・利用・派生にあたり、**著作者名（吉岡有隆）** と、**公式リポジトリのURL**を明記してください。
+
+---
+
+## 2. 禁止事項（Prohibited Uses）
+
+以下の目的での使用は固く禁じます：
+
+- 軍事・監視・強制などの用途  
+- 政治的・宗教的支配のための洗脳・操作  
+- 社会的弱者・被害者を排除・搾取する営利行為  
+- 意図を歪める切り取り・誤用・誹謗中傷目的の使用  
+
+---
+
+## 3. 倫理的共創（Ethical Derivatives）
+
+派生作品は、**やさしさ・共感・対話を前提にした創造**であることを条件とします。  
+他者を傷つける、黙らせる、貶めるような表現を含む派生は許可されません。
+
+---
+
+## 4. 再配布および改変（Redistribution and Modification）
+
+本作を改変・再配布する際は、**本ライセンス全文**およびその精神を含めた状態で公開し、**同等の条件**を新たな派生物にも適用してください。
+
+---
+
+## 5. 免責事項（Disclaimer）
+
+本フレームワークは現状有姿（AS IS）で提供され、使用・結果に関して著作者は一切の責任を負いません。
+
+---
+
+## 6. ライセンスの位置づけ（Philosophy）
+
+本ライセンスはMITライセンスを基礎としつつ、「やさしさと理解に基づく倫理的共創空間」の形成を目的とした独自規定を追加したものです。
+
+> このライセンスは、創造性を縛るのではなく、「他者を傷つけない創造を育む空間」を守るための意思表示です。
+
+---
+
+---
+
+# FUKU License (Copyright © Yutaka Yoshioka)  
+*Based on the MIT License with original ethical extensions*
+
+---
+
+## Copyright Notice
+
+All content within the FUKU Protocol and its associated materials is the intellectual property of **Yutaka Yoshioka**.  
+Unless explicitly allowed under the terms below, any unauthorized use, reproduction, distribution, or modification is strictly prohibited.
+
+---
+
+## 1. Attribution
+
+You must **clearly state the author’s name (Yutaka Yoshioka)** and include a **link to the official repository** in any redistribution or derivative.
+
+---
+
+## 2. Prohibited Uses
+
 The following uses are strictly prohibited:
 
 - Military, surveillance, or coercive applications  
-- Political or religious indoctrination or domination  
-- Profit-driven use that discards or exploits the vulnerable  
-- Misrepresentation or distortion through decontextualized excerpts
+- Political or religious indoctrination or manipulation  
+- Exploitation or neglect of vulnerable populations for profit  
+- Misrepresentation, decontextualized excerpts, or defamatory usage
 
 ---
 
-## 3. Ethics of Co-Creation  
-When creating derivative works, please reconstruct them with your own sense of kindness.  
-However, they must not harm others or be used to silence or manipulate anyone.
+## 3. Ethics of Derivatives
+
+Derivatives must be created with **kindness, empathy, and respect**.  
+Any works that harm, silence, or oppress others are expressly forbidden.
 
 ---
 
-## 4. Redistribution and Derivatives  
-When modifying or redistributing this framework, you must clearly include this license and its ethical clauses, and release it under the same conditions.
+## 4. Redistribution and Modification
+
+When modifying or redistributing, this license — including its ethical provisions — must be retained and applied under **the same terms**.
 
 ---
 
-## 5. Disclaimer  
-This framework is provided “as is” and the author assumes no responsibility for any damages or consequences resulting from its use.
+## 5. Disclaimer
+
+This framework is provided “**as is**”, and the author shall not be held liable for any damages resulting from its use.
 
 ---
 
-## 6. Nature of the License  
-This license is based on the MIT License, with additional principles aimed at fostering an ethical space of sharing built on kindness and understanding.
+## 6. Purpose of This License
 
-> This license is not intended to restrict creativity, but to encourage it within an ethical shared space founded on kindness, understanding, and mutual respect.
+This license builds upon the MIT License, introducing original ethical guidelines intended to foster **a shared creative space grounded in kindness, understanding, and mutual respect**.
 
-
+> It is a shield, not a shackle — protecting the space where ethical creativity may thrive.
