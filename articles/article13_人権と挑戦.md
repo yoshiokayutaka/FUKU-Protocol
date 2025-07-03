@@ -1,5 +1,7 @@
 FUKU Philosophy13: 誰かの挑戦を、そっと肯定出来る社会でありたい。――FUKUが目指す「やさしさ」という設計思想　We want to build a society that quietly affirms each person’s challenge. — A design philosophy of kindness envisioned by FUKU.
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 人は誰しも日々、小さな挑戦をしながら生きている。それは必ずしも大きく誇れるようなものでもないかもしれません。ですが素晴らしいことだと私は思います。
 
 朝起きること。電車に乗ること。笑顔を作ること。誰かに話しかけること。そんな一つひとつの「出来た」にもそれぞれの物語がある。
