@@ -1,5 +1,7 @@
 FUKU Philosophy14: 「やさしさの設計」に、“間違える力”を。――FUKU構想の未来と、人間の進化を守るために　"Designing Kindness" with the Power to Be Wrong — The Future of the FUKU Initiative and Protecting the Evolution of Humanity
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 「もしAIが 全ての“正解”を示してくれる時代が来たら人間は、迷うことをやめてしまうのだろうか」
 
 これは、ある日ふと頭に浮かんだ問いでした。
