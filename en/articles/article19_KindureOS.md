@@ -1,5 +1,7 @@
 FUKU Philosophy19: 【F.U.K.U.】KindureOS（カインデュア）――やさしさを宿すオープンソースOS構想　KindureOS – An Open-Source OS Project Embodying Kindness
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 OSは道具であると同時に、誰かの孤独を癒せる地図であってほしい。
 
 この言葉が、KindureOS（カインデュア）のすべてを物語っています。
