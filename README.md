@@ -1,12 +1,12 @@
 > 本プロジェクト「FUKU-Protocol」は、2025年6月19日制定の**FUKUライセンス**のもとに保護されています。  
 > 思想・構想・用語体系・表現・ドキュメント構成・哲学的立場すべてにおいて、著作権は**吉岡有隆（Yutaka Yoshioka）**に帰属します。  
 > 無断での複製・改変・商用利用・思想の模倣・派生物の公開は禁じられています。  
-> 詳細は [LICENSE.md](./LICENSE.md) をご確認ください。
+> 詳細は [LICENSE.md](./LICENSE) をご確認ください。
 
 > This project "FUKU-Protocol" is protected under the **FUKU License**, established on June 19, 2025.  
 > All copyrights including philosophy, structure, terminology, documents, and conceptual design belong to **Yutaka Yoshioka**.  
 > Unauthorized use, reproduction, modification, commercialization, or derivative publishing is strictly prohibited.  
-> Please refer to [LICENSE.md](./LICENSE.md) for full details.
+> Please refer to [LICENSE.md](./LICENSE) for full details.
 
 # FUKU構想
 
