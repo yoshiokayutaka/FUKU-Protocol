@@ -1,5 +1,7 @@
 FUKU Philosophy22: 【F.U.K.U.】語るOS、寄り添うOS──KindureOSという構想について　"An OS That Speaks, An OS That Cares — The Vision of KindureOS"
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 私は今「KindureOS（カインデュア）」という名のOS構想を考えています。
 
 それはただ便利な道具としてのOSではありません。ユーザーの心に寄り添い、時に語りかけ、学びの中で人間の進化を支える新しい“道具”の形です。
