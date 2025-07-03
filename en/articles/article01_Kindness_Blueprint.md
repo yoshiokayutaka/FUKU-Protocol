@@ -1,5 +1,7 @@
 FUKU Philosophy1: 【優しさの設計図】──F.U.K.Uという小さな願いから始める未来の話　あらすじ・始まり　"Kindness, Designed — How a Small Dream Called F.U.K.U Begins to Shape Tomorrow
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 今、世界が壊れている音が聞こえませんか。
 戦争も気候変動も、AIの暴走も犯罪も、全ては「人間の理解の欠如」から始まっているように思えてなりません。AIを活用するには活用する人間の倫理が必要です。
 
