@@ -1,5 +1,7 @@
 FUKU Philosophy18: 【F.U.K.U.】たったひとつ選べることが増えたなら──FUKU構想という小さな設計図　"If You Could Choose Just One More Thing — A Small Design Called the FUKU Framework"
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 こんにちは、吉岡有隆です。
 
 この記事では「FUKU構想って、結局何の役に立つの？」と感じた方に向けて、そっとお話しさせてください。
