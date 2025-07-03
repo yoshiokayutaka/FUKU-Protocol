@@ -1,5 +1,7 @@
 FUKU Philosophy9: 【偏見の解毒剤】〜FUKUが照らす、嫌いという感情との付き合い方〜　Antidote to Prejudice: How FUKU Sheds Light on Living with the Feeling of Dislike
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 「その人が嫌いなんです」
 
 そう口にするのは、どこか罪悪感を伴う。嫌ってはいけない、受け入れなければいけない、理解しようとしなければならない。
