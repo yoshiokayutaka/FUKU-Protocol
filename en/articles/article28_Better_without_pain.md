@@ -1,5 +1,7 @@
 FUKU Philosophy28: 【F.U.K.U.】痛みはないに越したことはない──優しさの設計に、痛みの理解が必要な理由　"Pain Is Better Not Felt — Why Understanding It Still Matters in Designing Kindness"
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 私は、誰かに痛みを味わって欲しいと思った事は一度もありません。
 
 むしろ痛みなど無いに越した事はないと、心から思っています。人生は、出来ることなら穏やかに進み、心が傷付く場面など一度も無く終えられる方が、ずっといい。
