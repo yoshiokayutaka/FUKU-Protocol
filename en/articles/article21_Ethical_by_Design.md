@@ -1,5 +1,7 @@
 FUKU Philosophy21: 【F.U.K.U.】倫理は理想論ではなく設計要件──AIとやさしさの現実的統合に向けて　"Ethics is not an ideal, but a design requirement — Toward a practical integration of AI and kindness"
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 人工知能に関わる人間には「誠実さと透明性」が求められる──それは正しい認識です。ですが、それだけでは足りないと私は考えています。
 
 私は、KindureOSというOS構想とFUKU構想という設計思想の中で、もっと根本的な問いと向き合ってきました。
