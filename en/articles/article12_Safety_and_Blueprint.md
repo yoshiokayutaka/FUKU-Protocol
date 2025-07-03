@@ -1,5 +1,7 @@
 FUKU Philosophy12: 【F.U.K.U.安全構想v1.0】未来の自由を侵さないための設計　【F.U.K.U. Safety Framework v1.0】Design Principles to Protect the Freedom of the Future
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 未来の自由を侵さない為の設計原則――その選択が、誰かの明日を奪わないように
 
 FUKU（Futurable Union for Kindness & Understanding）は、「やさしさ」や「理解」を未来に根づかせる為の小さな構想です。
