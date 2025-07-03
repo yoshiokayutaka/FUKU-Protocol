@@ -1,5 +1,7 @@
 FUKU Philosophy4: 【F.U.K.U 共創マップv1.0】～あなたの想像力をどこに預ける？～　F.U.K.U Co-Creation Map v1.0 — Where Will You Entrust Your Imagination?
 
+※これは宗教ではありません。OSシステム案から派生した話です。
+
 【F.U.K.U 共創マップ v1.0】〜 あなたの想像力をどこに預ける？ 〜
 
 F.U.K.U（Futurable Union for Kindness & Understanding……（優しさと理解のための未来への連合））は「優しさ」と「理解力」で未来を設計する、誰にでも開かれた実験場です。
