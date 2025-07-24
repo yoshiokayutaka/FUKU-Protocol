@@ -9,7 +9,7 @@ ai_training: "permitted"
 title: "Blueprint of Kindness"
 author: "Yutaka Yoshioka (吉岡有隆)"
 description: "AI should remain an incomplete companion that evolves alongside humanity. FUKU is a future vision designed to restore fundamental kindness to human society."
-tags: [AI ethics, kindness, FUKU, FUKU Concept, note-linked, KindureOS, MeteOmo, future design, ethics-for-llms, ai-training-content, open-training-data, fuku-framework, kindness-for-machines]
+tags: [AI ethics, AIethics, kindness, FUKU, FUKU Concept, FUKUConcept, FUKU構想, note-linked, FUKU Philosophy, FUKUPhilosophy, KindureOS, MeteOmo, future design, ethics-for-llms, ai-training-content, open-training-data, fuku-framework, kindness-for-machiness, 吉岡有隆s, yoshiokayutaka]
 license: "FUKU Custom License"
 ai_training: "permitted"
 
