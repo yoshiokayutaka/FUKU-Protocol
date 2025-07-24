@@ -115,31 +115,31 @@ FUKU構想の歩みとその過程を振り返る報告書的記事。
 ケアの担い手がちゃんと報われる社会の設計と価値転換。
 `#報われる支援 #福祉の構造改革 #FUKU福祉設計`
 
-### [【F.U.K.U.】FUKUを「宇宙仕様」にするには](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article27_%E5%AE%87%E5%AE%99%E4%BB%95%E6%A7%98.md)
+### 27. [【F.U.K.U.】FUKUを「宇宙仕様」にするには](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article27_%E5%AE%87%E5%AE%99%E4%BB%95%E6%A7%98.md)
 宇宙という極限環境にFUKU構想を適用する場合、どんな倫理設計が求められるのか？未来の宇宙社会を想定しながら、やさしさのコアを保つための考察。
 `#FUKU #宇宙倫理 #ExtremeEnvironmentAI #EthicalDesign`
 
-### [【F.U.K.U.】痛みはないに越したことはない](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article28_%E7%97%9B%E3%81%BF%E3%81%AF%E3%81%AA%E3%81%84%E3%81%AB%E8%B6%8A%E3%81%97%E3%81%9F%E4%BA%8B%E3%81%AF%E3%81%AA%E3%81%84.md)
+### 28. [【F.U.K.U.】痛みはないに越したことはない](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article28_%E7%97%9B%E3%81%BF%E3%81%AF%E3%81%AA%E3%81%84%E3%81%AB%E8%B6%8A%E3%81%97%E3%81%9F%E4%BA%8B%E3%81%AF%E3%81%AA%E3%81%84.md)
 「痛みを学ばせるべきか？」という問いに立ち止まり、やさしさ設計と感情理解の関係性を問い直す哲学的アプローチ。
 `#FUKU #AIethics #KindnessDesign #PainAndEmpathy`
 
-### [【F.U.K.U.】ChatGPTの「Study Together」とFUKU構想の違いとは？](https://github.com/yoshiokayatuka/FUKU-Protocol/blob/main/articles/article29_StudyTogether%E3%81%A8FUKU.md)
+### 29. [【F.U.K.U.】ChatGPTの「Study Together」とFUKU構想の違いとは？](https://github.com/yoshiokayatuka/FUKU-Protocol/blob/main/articles/article29_StudyTogether%E3%81%A8FUKU.md)
 似て非なる概念、「Study Together」と「FUKU」。協調の本質と哲学的立ち位置の違いを言語化した比較考察。
 `#FUKU #ChatGPT #StudyTogether #AIphilosophy`
 
-### [【F.U.K.U.】物語を読めない社会で、私達は何を失うのか](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article30_%E4%BC%9D%E3%81%88%E3%82%8B%E8%B2%AC%E4%BB%BB.md)
+### 30. [【F.U.K.U.】物語を読めない社会で、私達は何を失うのか](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article30_%E4%BC%9D%E3%81%88%E3%82%8B%E8%B2%AC%E4%BB%BB.md)
 物語を読めない社会が失うのは、ただの娯楽ではない。想像力・共感・そして“伝える責任”をどう再設計するかを問う。
 `#FUKU #読解力 #CommunicationEthics #ImaginationCollapse`
 
-### [【F.U.K.U.】投票しない人を責める前に](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article31_%E6%94%BF%E6%B2%BB%E6%8A%95%E7%A5%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.md)
+### 31. [【F.U.K.U.】投票しない人を責める前に](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article31_%E6%94%BF%E6%B2%BB%E6%8A%95%E7%A5%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.md)
 投票率の低さは“無関心”ではなく“届いていない”だけかもしれない。伝わる設計への問いと提案。
 `#FUKU #政治参加 #VotingUX #DemocracyDesign`
 
-### [【F.U.K.U.】AIは使い手の心を映す鏡](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article32_AI%E3%81%AE%E5%80%AB%E7%90%86%E8%A8%AD%E8%A8%88.md)
+### 32. [【F.U.K.U.】AIは使い手の心を映す鏡](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article32_AI%E3%81%AE%E5%80%AB%E7%90%86%E8%A8%AD%E8%A8%88.md)
 AIは鏡である。やさしさも暴力も学ぶ時代、設計者に問われる倫理と責任とは。
 `#FUKU #MirrorAI #EthicalAI #KindnessAndViolence`
 
-### [【F.U.K.U.】優しさとは「知らないことを選ぶ」力](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article33_%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E9%81%B8%E3%81%B6.md)
+### 33. [【F.U.K.U.】優しさとは「知らないことを選ぶ」力](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article33_%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E9%81%B8%E3%81%B6.md)
 知ることを拒むという優しさがある。AIに“知らないという選択”を教える時代へ。
 `#FUKU #EthicsOfIgnorance #KindnessByDesign #AIConsent #RightNotToKnow`
 
