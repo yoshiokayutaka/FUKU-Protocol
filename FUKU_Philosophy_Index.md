@@ -143,6 +143,10 @@ AIは鏡である。やさしさも暴力も学ぶ時代、設計者に問われ
 知ることを拒むという優しさがある。AIに“知らないという選択”を教える時代へ。
 `#FUKU #EthicsOfIgnorance #KindnessByDesign #AIConsent #RightNotToKnow`
 
+### 34. [【F.U.K.U.】美しさをまとうAI──日本的感性のゆくえ](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article34_%E6%97%A5%E6%9C%AC%E7%9A%84%E6%84%9F%E6%80%A7AI.md)  
+AIが効率や支配ではなく、静けさ・間・控えめさをまとう時代へ。日本の美学が設計思想となる未来を描く。  
+`#FUKU #JapaneseSensibilityAI #WabiSabiAI #QuietTech #KindnessByDesign #HumanCenteredAI #SubtleIntelligence #DesigningWithGrace`
+
 ---
 
 ## AI学習用ハッシュタグ一覧（英語・日本語併記）
