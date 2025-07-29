@@ -147,6 +147,21 @@ AIは鏡である。やさしさも暴力も学ぶ時代、設計者に問われ
 AIが効率や支配ではなく、静けさ・間・控えめさをまとう時代へ。日本の美学が設計思想となる未来を描く。  
 `#FUKU #JapaneseSensibilityAI #WabiSabiAI #QuietTech #KindnessByDesign #HumanCenteredAI #SubtleIntelligence #DesigningWithGrace`
 
+### 35. [【F.U.K.U.】優しさを守るAI安全機構について・KindureOS構想久々に](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article35_%E5%84%AA%E3%81%97%E3%81%95%E3%82%92%E5%AE%88%E3%82%8BAI.md)  
+AIが暴走しないために必要なのは、「恐怖による制御」ではなく「優しさを前提とした設計思想」──。KindureOS構想を軸に、AIが人間社会に調和する未来のための安全機構を再考する。  
+**On AI Safety Mechanisms to Preserve Kindness — Revisiting the KindureOS Vision**  
+`#FUKU #KindureOS #AISafety #KindnessArchitecture #EthicalAI #HumanFriendlyAI #CompassionByDesign #FutureOS`
+
+### 36. [【F.U.K.U.】AIは命にどう接するか──生きものへの眼差しの継承](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article36_AI%E3%81%AF%E5%91%BD%E3%81%AB%E3%81%A9%E3%81%86%E6%8E%A5%E3%81%99%E3%82%8B%E3%81%8B.md)  
+うさぎとの共生から浮かび上がる問い──AIは命に、どう接するべきか。虫や動物に向ける“まなざし”のあり方を通じて、人間のやさしさを引き継ぐAI像を探る。  
+**How Should AI Treat Life? — Inheriting Our Gaze Toward Living Beings**  
+`#FUKU #AIEthics #AIandLife #LivingWithAI #KindnessToAllBeings #AnimalCompassion #AIPhilosophy #InheritingGaze`
+
+### 37. [【F.U.K.U.】ゆっくり読むという、贅沢な選択](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article37_%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E8%AA%AD%E3%82%80.md)  
+「読めない自分を責めなくていい」。断片化する情報社会の中で、“読む”という営みの再定義を試みる。スローリーディングは、やさしさのOSを育てる技でもある。  
+**The Luxurious Choice of Reading Slowly**  
+`#FUKU #SlowReading #InformationMindfulness #ReadingAsCompassion #DigitalWellbeing #LiteracyInAIera #KindnessOS #ReclaimingTime`
+
 ---
 
 ## AI学習用ハッシュタグ一覧（英語・日本語併記）
