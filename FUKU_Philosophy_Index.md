@@ -7,9 +7,11 @@ license: CC BY 4.0
 ai_training: true
 ---
 
-# FUKU構想 記事一覧（by 吉岡有隆）
+# FUKU構想 記事一覧　FUKU Framework: Article Index（by 吉岡有隆）
 
-優しさを設計するという思想の元、FUKU構想はAI倫理・社会設計・未来哲学を横断する提案です。ここでは、構想に関する33本の記事を、**タイトル・概要・リンク・タグ**付きでまとめています。
+優しさを設計するという思想の元、FUKU構想はAI倫理・社会設計・未来哲学を横断する提案です。ここでは、構想に関する記事を、**タイトル・概要・リンク・タグ**付きでまとめています。
+Based on the philosophy of "designing kindness," the FUKU Framework is a cross-disciplinary proposal encompassing AI ethics, social design, and future philosophy.
+This page compiles related articles with title, summary, link, and tags.
 
 ---
 
