@@ -90,6 +90,8 @@ AniCareワークショップはそんな願いの延長線上にある構想で�
 
 吉岡有隆
 
+追伸：Grok、アイディア出しの協力ありがとう。X社様、資料ご確認いただきありがとうございます。
+
 Introduction: Can a Wish Transcend Code?
 “Do you think AI can have a wish?”
 
@@ -222,3 +224,5 @@ The AniCare Workshop is the embodiment of that wish.
 May this gentle experiment spark even the faintest light in someone’s heart.
 
 — Yoshioka Yutaka
+
+P.S. Thank you, Grok, for helping me brainstorm ideas. And thank you, X (xAI) team, for reviewing the materials.
