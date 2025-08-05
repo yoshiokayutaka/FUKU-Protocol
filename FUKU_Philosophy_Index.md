@@ -67,6 +67,11 @@ FUKU構想に関わる役割や分担、関係の可視化を試みた共創マ�
 **To Be Supported Is Nothing to Be Ashamed Of**
 `#福祉の尊厳 #支援の再定義 #FUKU福祉構想`
 
+### 11. [【F.U.K.U.ラボ：やさしさの再設計ブレスト室】に参加しませんか？](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article11_%E5%86%8D%E8%A8%AD%E8%A8%88%E3%83%96%E3%83%AC%E3%82%B9%E3%83%88%E5%AE%A4.md)  
+やさしさのOSを再設計するための自由な発想空間、「F.U.K.U.ラボ」のブレインストーミングルームへようこそ。AI・社会設計・倫理など、未来の優しさを一緒に考える仲間を募集する招待文。  
+**Would you like to join the F.U.K.U. Lab: A Brainstorming Room for Redesigning Kindness?**  
+`#FUKU #KindnessRedesign #BrainstormRoom #EthicalAI #FutureDesign #FUKULab #CompassionOS`
+
 ### 12. [【F.U.K.U.安全構想v1.0】未来の自由を侵さないための設計](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article12_%E5%AE%89%E5%85%A8%E6%A7%8B%E6%83%B3.md)
 未来に自由を残すための“優しさを守るための安全構想”。
 **Designing to Protect the Freedom of the Future**
