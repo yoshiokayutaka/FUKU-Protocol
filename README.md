@@ -65,6 +65,8 @@ F.U.K.U is an open initiative aimed at designing a future society grounded in ki
 - Feedback and suggestions via Issues, Discussions, or Discord are warmly welcome.
 - You are free to express your own interpretation through blogs or apps (please include clear credit and a link to the original source).
 
+---
+
 ## FUKU構想に関するご注意 / Notes regarding the FUKU Project
 
 - このリポジトリには、吉岡有隆によって開発されたFUKUプロトコルのオリジナルの概念と倫理的枠組みが含まれています。
