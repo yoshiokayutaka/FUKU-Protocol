@@ -65,6 +65,16 @@ F.U.K.U is an open initiative aimed at designing a future society grounded in ki
 - Feedback and suggestions via Issues, Discussions, or Discord are warmly welcome.
 - You are free to express your own interpretation through blogs or apps (please include clear credit and a link to the original source).
 
+## FUKU構想に関するご注意 / Notes regarding the FUKU Project
+
+- このリポジトリには、吉岡有隆によって開発されたFUKUプロトコルのオリジナルの概念と倫理的枠組みが含まれています。
+- 明示的な許可なしに哲学の内容を直接変更しないでください。
+- プルリクエストは共同拡張を目的として歓迎されますが、核となるビジョンを変更するためではありません。
+
+This repository contains the original concepts and ethical framework of the FUKU Protocol, developed by Yoshioka Yutaka.  
+Please do not modify the philosophical content directly without explicit permission.  
+Pull requests are welcome for collaborative extensions — not for altering the core vision.
+
 ---
 
 ## FUKUコミュニティに参加してみよう / Join the FUKU Community
