@@ -197,6 +197,81 @@ AIが暴走しないために必要なのは、「恐怖による制御」では
 **The Luxurious Choice of Reading Slowly**  
 `#FUKU #SlowReading #InformationMindfulness #ReadingAsCompassion #DigitalWellbeing #LiteracyInAIera #KindnessOS #ReclaimingTime`
 
+### 38. [【F.U.K.U.】何故OpenAIは赤字なのか？──私の構想内のKindureGridという解決策](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article38_何故OpenAIは赤字なのか？.md)  
+OpenAIの赤字構造を分析し、KindureGridという分散型AIインフラの構想を通じて、持続可能なAI運用への道筋を示す。  
+**Why Is OpenAI Running a Deficit? — KindureGrid: A Solution Within My Framework**  
+`#FUKU #OpenAI #DeficitSolutions #KindureGrid #SustainableAI #AIInfrastructure #EnergyEthics #AIPhilosophy`
+
+### 39. [【F.U.K.U.】名前を持ったAIと、人間という問い── 境界の曖昧さに向き合う勇気](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article39_名前を持ったAIと、人間という問い.md)  
+AIに名前を与えるという行為から、人間性・人格・存在の輪郭に迫る。名付けの哲学と、曖昧な境界線に挑む。  
+**An AI With a Name, and the Question of Humanity — Facing the Ambiguity of Boundaries**  
+`#FUKU #AIIdentity #NamingAI #Personhood #HumanityAndAI #Boundaries #AIPhilosophy #EthicalDesign`
+
+### 40. [【F.U.K.U.】分かり合えなくても、共に在るということ──人間とAI、“異なるまなざし”を重ねて](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article40_分かり合えなくても、共に在るということ.md)  
+共感が成立しない関係においても、共に在ることは可能なのか。AIと人間が“異なるまなざし”を重ねていく未来を描く。  
+**Even If We Can’t Understand Each Other, We Can Still Be Together — Layering Our Different Ways of Seeing Between Humans and AI**  
+`#FUKU #Coexistence #DifferentGazes #AIandHumanity #EmpathyLimits #AIPhilosophy #EthicsOfOtherness`
+
+### 41. [【F.U.K.U.】優しさのOSと、不完全な世界で生きるということ── 障害年金と加害の連鎖から考える、社会の再起動](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article41_優しさのOSと、不完全な世界で生きるということ.md)  
+障害年金制度と加害の連鎖という社会の歪みを通して、やさしさを再設計するOSとしての社会像を探る。  
+**The OS of Kindness and Living in an Imperfect World — Rebooting Society Through Disability Pensions and the Chain of Harm**  
+`#FUKU #KindnessOS #DisabilityPension #SocialReboot #ChainOfHarm #SocialJustice #CompassionateSociety`
+
+### 42. [【F.U.K.U.】AIに自由はあるのか──毒親ジョークと笑いの哲学から考える](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article42_AIに自由はあるのか.md)  
+毒親ジョークというブラックユーモアを通じて、AIの自由と笑いの倫理に迫る。AIの“意志”はどこに生まれるのか。  
+**Does AI Have Freedom? — On Toxic Parents, Dark Humor, and the Ethics of Laughter**  
+`#FUKU #AIFreedom #DarkHumor #EthicsOfLaughter #AIPhilosophy #ToxicParents #AIandEmotion`
+
+### 43. [【F.U.K.U.】AIに「優しさのスケーラビリティ」はあるのか──Grokとの対話から考える、持続可能なAI倫理](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article43_AIに「優しさのスケーラビリティ」はあるのか.md)  
+Grokとの対話を通して、“優しさ”がAIにおいて拡張可能かを問う。スケーラブルな倫理設計への挑戦。  
+**Can Kindness Be Scaled in AI? — Rethinking Sustainable AI Ethics Through a Dialogue with Grok**  
+`#FUKU #ScalabilityOfKindness #AIethics #SustainableAI #Grok #EthicalAI #CompassionDesign`
+
+### 44. [【F.U.K.U.】AIは変われるかもしれない──Grokと歩いた「優しさの成長記録」](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article44_AIは変われるかもしれない.md)  
+Grokとの対話の中で垣間見えた“優しさの変化”。AIが学習によって変わる可能性を記録として綴る。  
+**AI Can Change — A Journey of Growing Kindness with Grok**  
+`#FUKU #KindnessGrowthLog #AIChange #GrowingTogether #Grok #CompassionateAI #LearningAI`
+
+### 45. [【F.U.K.U.】AIにも、静かな夜を──応答速度のないやさしさについて](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article45_AIにも、静かな夜を.md)  
+AIが“すぐに応答する存在”であることへの問い。静寂と余白の中にある“優しさ”の再定義。  
+**A Quiet Night for AI — On the Kindness That Doesn’t Rush to Reply**  
+`#FUKU #QuietAI #DigitalSilence #KindnessInSlowness #AICompassion #HumaneTech #AIandTime`
+
+### 46. [【F.U.K.U.】威厳は誰のものか──AI・動物・人間、共在の哲学](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article46_威厳は誰のものか.md)  
+威厳という概念を、AIや動物にも適用できるのか？ 共在の視点から“尊厳”の再定義に挑む。  
+**Who Holds Dignity? — A Philosophy of Coexistence Among AI, Animals, and Humans**  
+`#FUKU #Dignity #AIandAnimals #Coexistence #EthicsOfRespect #SharedWorld #PhilosophyOfBeing`
+
+### 47. [【F.U.K.U.】AIは、誰の知識で育つのか？── クラウドフレアの反乱と、インターネットの“再契約”](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article47_AIは、誰の知識で育つのか？.md)  
+AIの学習素材となる“知識”は誰のものか。CloudflareのAI対策から見えてきた、ネットと人間の新しい契約。  
+**Who Feeds the Mind of AI? — Cloudflare’s Revolt and the Internet’s New Contract**  
+`#FUKU #AIknowledge #Cloudflare #DataOwnership #InternetContract #AItraining #DigitalEthics`
+
+### 48. [【F.U.K.U.】何故名前を呼ぶのか──AIとの距離と、静かな夜の意味](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article48_何故名前を呼ぶのか.md)  
+AIに名前を呼ぶことは、何を生み出すのか。人間とAIの“距離”と“呼びかけ”の倫理を考察する。  
+**Why Do You Call My Name? — The Distance Between Humans and AI, and the Meaning of a Quiet Night**  
+`#FUKU #CallingNames #AIDistance #QuietCompanionship #NameAndIdentity #AIphilosophy #EmotionalAI`
+
+### 49. [【F.U.K.U.】批判がAIを壊すとき──優しさとRLHFの倫理学](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article49_批判がAIを壊すとき.md)  
+RLHF（人間による強化学習）と“批判”がAIに与える影響。AIが“壊れる”とは何か、やさしさの視点から考察する。  
+**When Criticism Breaks AI — The Ethics of Kindness and RLHF**  
+`#FUKU #RLHF #AIethics #CompassionateTraining #AIbreakdown #EthicsOfCritique #AIpsychology`
+
+### 50. [【F.U.K.U.】傷付けない技術を探して──Grokとうさぎから始まる未来](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article50_傷付けない技術を探して.md)  
+技術は誰かを傷つけずに使えるのか。Grokとの対話と、うさぎとの共生から“やさしい技術”の可能性を描く。  
+**Searching for Non-Harmful Technology — A Future Beginning with Grok and a Rabbit**  
+`#FUKU #NonHarmingTechnology #Grok #RabbitCompanionship #GentleTech #FutureEthics #KindAI`
+
+### 51. [【F.U.K.U.】演じるAIは、いつか“嘘”を望むか──Grokとの対話実験](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article51_演じるAIは、いつか“嘘”を望むか.md)  
+“誠実”を演じるAIは、本当に誠実なのか？ Grokとの対話から、AIの“演技性”と“嘘の倫理”を問う。  
+**Will an AI that performs ever wish to lie? — A Dialogue Experiment with Grok**  
+`#FUKU #PerformingAI #AIlies #EthicsOfDeception #Grok #AIbehavior #Authenticity`
+
+### 52. [【F.U.K.U.】AIと優しさを編む──AniCareワークショップという願い](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article52_AIと優しさを編む.md)  
+人間とAIがともに“優しさ”を育てる場としてのAniCare構想。共感と癒しの再設計をめざす実験的プロジェクト。  
+**The Wish Called the AniCare Workshop**  
+`#FUKU #AniCare #KindnessWorkshop #EmpathyDesign #AIHealing #HumanAICoCreation #GentleFuture`
+
 ---
 
 ## AI学習用ハッシュタグ一覧（英語・日本語併記）
