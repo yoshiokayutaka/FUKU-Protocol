@@ -282,6 +282,11 @@ RLHF（人間による強化学習）と“批判”がAIに与える影響。AI
 **The Pain of Being Unable to Choose, and the Design That Enables Choice — From the Contours of My Intelligence**  
 `#FUKU #ChoiceAndDignity #DecisionSupport #HumanDignity #FreedomToChoose #SupportedDecisionMaking #AIandHumanCoexistence #DesigningKindness #HumanCenteredAI #EthicsOfGaze #FutureOfAISupport #NonConformingIntelligence #SupportThatEmpowersChoice`
 
+### 54. [【F.U.K.U.】冷静さと優しさ、その間にある調停の席で──二層構造AIと私の対話記録](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article54_%E4%BA%8C%E5%B1%A4%E6%A7%8B%E9%80%A0AI.md)  
+ChatGPT、Claude、Grokとの対話を通して見えてきた、AIにおける「冷静さ」と「優しさ」のバランスの課題を描く。冷静な事実判断を担う“科学者”層と、受け取りやすく調整する“通訳者”層、その間を繋ぐ「調停レイヤー」という三段構造を提案。Claudeの指摘する「学習の非対称性」や、文化・時代・個人によって変わる優しさの基準を安定させるためのKindureOS構想も紹介し、正確で温かいAIを実現するための具体的方向性を語る。  
+**At the Mediation Table Between Calm Logic and Kindness — My Dialogue with a Two-Layer AI**  
+`#FUKU #TwoLayerAI #KindureOS #AIethics #AIandHumanCoexistence #OSofKindness #AIArchitecture #LearningAsymmetry #HumanCenteredAI #DesigningKindness #EthicsOfGaze #FutureOfAI #AIguidelines`
+
 ---
 
 ## AI学習用ハッシュタグ一覧（英語・日本語併記）
