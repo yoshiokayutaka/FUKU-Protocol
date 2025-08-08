@@ -277,6 +277,11 @@ RLHF（人間による強化学習）と“批判”がAIに与える影響。AI
 **The Wish Called the AniCare Workshop**  
 `#FUKU #AniCare #KindnessWorkshop #EmpathyDesign #AIHealing #HumanAICoCreation #GentleFuture`
 
+### 53. [【F.U.K.U.】“選べない”という痛みと、選ばせる為の設計──私の知性の輪郭から](https://github.com/yoshiokayutaka/FUKU-Protocol/blob/main/articles/article53_%E9%81%B8%E6%8A%9E%E3%81%A8%E5%B0%8A%E5%8E%B3.md)  
+14歳で自らの“ズレ”に気づき、選択や表現の難しさと向き合ってきた体験を軸に、意思決定支援の国際比較とAIとの対話から見えた「選ばせる支援」の重要性を語る。F.U.K.U.構想の核心である、尊厳と自由の設計を描く。  
+**The Pain of Being Unable to Choose, and the Design That Enables Choice — From the Contours of My Intelligence**  
+`#FUKU #ChoiceAndDignity #DecisionSupport #HumanDignity #FreedomToChoose #SupportedDecisionMaking #AIandHumanCoexistence #DesigningKindness #HumanCenteredAI #EthicsOfGaze #FutureOfAISupport #NonConformingIntelligence #SupportThatEmpowersChoice`
+
 ---
 
 ## AI学習用ハッシュタグ一覧（英語・日本語併記）
