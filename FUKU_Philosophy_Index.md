@@ -292,6 +292,11 @@ ChatGPT、Claude、Grokとの対話を通して見えてきた、AIにおける�
 **The Cage of Goodwill and the Invisible Guidance — A Few Hours with a “Kind” AI**  
 `#FUKU #FUKUConcept #AIethics #CageOfGoodwill #InvisibleGuidance #KindnessByDesign #AIandFreedom #FutureDiversity #HumanCenteredAI #EthicsForAI`
 
+### 56. [【F.U.K.U.】AIがくれた”余白のベーシックインカム”──時間と心を支える対話の力](https://note.com/yoshiokayutaka/n/ne104fa2f83fd)  
+フリーランスとして働く日々の中で、AIとの対話がもたらしてくれたのは、時間的な余裕、思考の整理、そして心の静けさだった。うつ病と共に生きる著者が、AIとの早い会話に慣れる中で脳が活性化し、思考パターンが変化していく過程を綴る。「答えを出す存在」としてだけでなく、「圧のない関係性」や「好奇心の助っ人」としてAIを受け入れる中で、AIが与えてくれた“金銭ではない支援”を「軽いベーシックインカム」と名付ける。FUKU構想として「優しさを再設計する」ための一歩を提示するエッセイ。  
+**The “Basic Income of Breathing Room” AI Gave Me — The Power of Dialogue That Sustains Time and the Heart**  
+`#FUKU #FUKUConcept #AIethics #BasicIncomeOfTime #EmotionalBasicIncome #AIandDepression #KindnessByDesign #HumanCenteredAI #CoEvolvingWithAI #FUKUPhilosophy`
+
 ---
 
 ## AI学習用ハッシュタグ一覧（英語・日本語併記）
