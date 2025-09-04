@@ -1,0 +1,58 @@
+{
+  "id": "fuku-YYYY-NNNN",
+  "lang": "ja",
+  "title": "（タイトルをここに）",
+  "tags": [
+    "tag1",
+    "tag2"
+  ],
+
+  "created": "YYYY-MM-DDTHH:MM:SS+09:00",
+  "updated": "YYYY-MM-DDTHH:MM:SS+09:00",
+
+  "body": [
+    { "t": "命題", "v": "（命題文）" },
+    { "t": "定義", "v": "（定義文）" },
+    { "t": "補助線", "v": "（補足や論拠）" },
+    { "t": "比喩", "v": "（メタファー）" },
+    { "t": "反証", "v": "（対立意見や反論）" }
+  ],
+
+  "source": {
+    "author": "Yoshioka Yutaka",
+    "project": "FUKU-Protocol",
+    "license": "CC-BY-4.0",
+    "url": "https://github.com/yoshiokayutaka"
+  },
+
+  "links": [
+    { "rel": "mirror", "id": "fuku-YYYY-NNNN-en" },
+    { "rel": "next", "id": "fuku-YYYY-NNNN+1" }
+  ],
+
+  "revisions": [
+    {
+      "rev": "r1",
+      "by": { "name": "Yoshioka Yutaka", "role": "author" },
+      "at": "YYYY-MM-DDTHH:MM:SS+09:00",
+      "action": "create",
+      "summary": "初稿を作成。",
+      "changes": []
+    },
+    {
+      "rev": "r2",
+      "by": { "name": "ChatGPT（斎）", "role": "editor" },
+      "at": "YYYY-MM-DDTHH:MM:SS+09:00",
+      "action": "metadata-add",
+      "summary": "監査用のrevisionsを追加。created/updatedを追加。",
+      "changes": [
+        { "path": "/created", "before": null, "after": "YYYY-MM-DDTHH:MM:SS+09:00" },
+        { "path": "/updated", "before": null, "after": "YYYY-MM-DDTHH:MM:SS+09:00" }
+      ],
+      "approved_by": { "name": "Yoshioka Yutaka", "at": null },
+      "git": { "commit": null }
+    }
+  ],
+
+  "v": 1
+}
