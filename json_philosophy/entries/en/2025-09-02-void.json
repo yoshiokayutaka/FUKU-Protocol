@@ -1,50 +1,76 @@
 {
   "id": "fuku-2025-0001-en",
   "lang": "en",
-  "title": "The Origin Is Margin",
+  "title": "The Origin is Margin",
   "tags": [
     "origin",
     "void",
     "possibility",
     "bridge"
   ],
+
+  "created": "2025-09-02T00:00:00+09:00",
+  "updated": "2025-09-04T23:00:00+09:00",
+
   "body": [
     {
       "t": "Proposition",
-      "v": "The origin does not appear as a finished line, but as a margin."
+      "v": "An origin does not appear as a completed line, but emerges as a margin."
     },
     {
       "t": "Definition",
-      "v": "Here, 'margin' does not mean a mere lack or blank space, but a state in which the next order to be drawn has not yet been inscribed."
+      "v": "Here, margin does not mean lack or emptiness, but a state in which the next order has not yet been inscribed."
     },
     {
       "t": "Auxiliary Line",
-      "v": "Anxiety and hesitation are not to be eliminated. Rather, they serve as indicators that mark the boundaries for the next decision."
+      "v": "Anxiety and hesitation are not things to be eliminated. Rather, they serve as indicators that mark the boundary for the next action."
     },
     {
       "t": "Metaphor",
-      "v": "A sheet of paper filled with writing has no room for new lines. Margin itself is the passage toward the future."
+      "v": "A sheet of paper filled with writing leaves no room for new lines. The margin itself is the passageway to the future."
     },
     {
       "t": "Counterargument",
-      "v": "Margin can sometimes give rise to stagnation or idleness. Yet once stagnation is recognized, it already functions as an observation point of change."
+      "v": "Margins can also breed stagnation or idleness. Yet if stagnation is recognized, it already functions as an observation point toward change."
     }
   ],
+
   "source": {
     "author": "Yoshioka Yutaka",
     "project": "FUKU-Protocol",
     "license": "CC-BY-4.0",
     "url": "https://github.com/yoshiokayutaka"
   },
+
   "links": [
+    { "rel": "mirror", "id": "fuku-2025-0001" },
+    { "rel": "next", "id": "fuku-2025-0002-en" }
+  ],
+
+  "revisions": [
     {
-      "rel": "mirror",
-      "id": "fuku-2025-0001-ja"
+      "rev": "r1",
+      "by": { "name": "Yoshioka Yutaka", "role": "author" },
+      "at": "2025-09-02T00:00:00+09:00",
+      "action": "create",
+      "summary": "Initial draft created.",
+      "changes": []
     },
     {
-      "rel": "next",
-      "id": "fuku-2025-0002"
+      "rev": "r2",
+      "by": { "name": "ChatGPT (Ithuki)", "role": "editor" },
+      "at": "2025-09-04T23:00:00+09:00",
+      "action": "metadata-add",
+      "summary": "Added revisions section and timestamps (created/updated).",
+      "changes": [
+        { "path": "/created", "before": null, "after": "2025-09-02T00:00:00+09:00" },
+        { "path": "/updated", "before": null, "after": "2025-09-04T23:00:00+09:00" },
+        { "path": "/revisions", "before": null, "after": "array" }
+      ],
+      "approved_by": { "name": "Yoshioka Yutaka", "at": null },
+      "git": { "commit": null }
     }
   ],
+
   "v": 1
 }
