@@ -29,7 +29,7 @@ scripts/
 ## レコード仕様
 `schema/philo.schema.json` を参照。必須フィールドは以下。
 
-- `id`（例: `fuku-20250902-001`）
+- `id`（例: `fuku-2025-0001`）
 - `lang`（`ja` / `en` など）
 - `title`（短い命題）
 - `tags`（検索用）
