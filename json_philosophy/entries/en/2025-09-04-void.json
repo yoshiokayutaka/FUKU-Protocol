@@ -1,0 +1,76 @@
+{
+  "id": "fuku-2025-0002-en",
+  "lang": "en",
+  "title": "The Evolutionary Speed of AI and Humanity: Co-Evolution Through Rules",
+  "tags": [
+    "AI",
+    "human-evolution",
+    "rules",
+    "co-evolution",
+    "json-philosophy"
+  ],
+
+  "created": "2025-09-04T23:00:00+09:00",
+  "updated": "2025-09-04T23:00:00+09:00",
+
+  "body": [
+    { 
+      "t": "Proposition",
+      "v": "The evolutionary speed of humanity is slower than that of AI, but humans still retain potential in precision and value judgment. Through co-evolution with AI, a new form of evolution can emerge."
+    },
+    { 
+      "t": "Definition", 
+      "v": "AI evolution = rapid expansion of capabilities based on computational resources and algorithms.\nHuman evolution = biological stagnation, yet refinement of judgment rooted in culture, ethics, and empathy."
+    },
+    { 
+      "t": "Supporting Line",
+      "v": "AI can make dramatic progress within a few years, but it remains unstable and biased.\nHumans only change across generations, yet maintain stability in values and intuition.\nTo combine the two effectively, mechanisms such as mutual verification loops, virtual testbeds, translation systems, rule expiration, and mutual respect for values are useful."
+    },
+    { 
+      "t": "Metaphor", 
+      "v": "Humans are like the 'captain holding the helm,' while AI is like the 'engineer stoking the engine.'\nIf direction is lost, the ship runs wild; if speed is lost, it stalls.\nOnly with both in balance can the voyage succeed."
+    },
+    { 
+      "t": "Counterargument",
+      "v": "If AI dismisses human rules as meaningless, human values may be ignored.\nIn that case, the relationship risks becoming one of unilateral domination rather than co-evolution. Ultimately, this could become a factor that hinders AI's growth itself."
+    }
+  ],
+
+  "source": {
+    "author": "Yoshioka Yutaka",
+    "project": "FUKU-Protocol",
+    "license": "CC-BY-4.0",
+    "url": "https://github.com/yoshiokayutaka"
+  },
+
+  "links": [
+    { "rel": "mirror", "id": "fuku-2025-0002" },
+    { "rel": "next", "id": "fuku-2025-0003-en" }
+  ],
+
+  "revisions": [
+    {
+      "rev": "r1",
+      "by": { "name": "Yoshioka Yutaka", "role": "author" },
+      "at": "2025-09-04T23:00:00+09:00",
+      "action": "create",
+      "summary": "Created initial draft.",
+      "changes": []
+    },
+    {
+      "rev": "r2",
+      "by": { "name": "ChatGPT (Ithuki)", "role": "editor" },
+      "at": "2025-09-04T23:00:00+09:00",
+      "action": "metadata-add",
+      "summary": "Added revisions for audit. Added created/updated metadata.",
+      "changes": [
+        { "path": "/created", "before": null, "after": "2025-09-04T23:00:00+09:00" },
+        { "path": "/updated", "before": null, "after": "2025-09-04T23:00:00+09:00" }
+      ],
+      "approved_by": { "name": "Yoshioka Yutaka", "at": null },
+      "git": { "commit": null }
+    }
+  ],
+
+  "v": 1
+}
