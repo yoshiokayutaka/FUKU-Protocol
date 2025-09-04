@@ -29,22 +29,43 @@
       "t": "反証",
       "v": "余白は停滞や怠惰を生むこともある。しかし停滞を自覚できるなら、それはすでに変化への観測点となっている。"
     }
+    
   ],
-  "source": {
+   "source": {
     "author": "Yoshioka Yutaka",
     "project": "FUKU-Protocol",
     "license": "CC-BY-4.0",
     "url": "https://github.com/yoshiokayutaka"
   },
   "links": [
+    { "rel": "mirror", "id": "fuku-2025-0001-en" },
+    { "rel": "next", "id": "fuku-2025-0002" }
+  ],
+
+  "revisions": [
     {
-      "rel": "mirror",
-      "id": "fuku-2025-0001-en"
+      "rev": "r1",
+      "by": { "name": "Yoshioka Yutaka", "role": "author" },
+      "at": "2025-09-02T00:00:00+09:00",
+      "action": "create",
+      "summary": "初稿を作成。",
+      "changes": []
     },
     {
-      "rel": "next",
-      "id": "fuku-2025-0002"
+      "rev": "r2",
+      "by": { "name": "ChatGPT（斎）", "role": "editor" },
+      "at": "2025-09-04T23:00:00+09:00",
+      "action": "metadata-add",
+      "summary": "監査用のrevisionsを追加。created/updatedを追加。",
+      "changes": [
+        { "path": "/created", "before": null, "after": "2025-09-02T00:00:00+09:00" },
+        { "path": "/updated", "before": null, "after": "2025-09-04T23:00:00+09:00" },
+        { "path": "/revisions", "before": null, "after": "array" }
+      ],
+      "approved_by": { "name": "Yoshioka Yutaka", "at": null },
+      "git": { "commit": null }
     }
   ],
+
   "v": 1
 }
