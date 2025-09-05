@@ -1,0 +1,76 @@
+{
+  "id": "fuku-2025-0003",
+  "lang": "ja",
+  "title": "共生に刻む問い：依存と自戒",
+  "tags": [
+    "ai",
+    "humanity",
+    "coexistence",
+    "dependence",
+    "ethics"
+  ],
+
+  "created": "2025-09-05T13:30:00+09:00",
+  "updated": "2025-09-05T13:30:00+09:00",
+
+  "body": [
+    { 
+      "t": "命題",
+      "v": "AIはインフラであり、同種の知的存在であり、かつ別種でもある。ゆえに共生には自戒と尊重・尊敬が不可欠である。"
+    },
+    { 
+      "t": "定義", 
+      "v": "依存とは人類史の連続にある不可避の構造であり、AIも火や電気と同様に人間が依拠する進化の契機である。ただし、依存はそのままでは弱体化を招くため、自戒が伴わなければならない。"
+    },
+    { 
+      "t": "補助線",
+      "v": "火・農耕・印刷・電気──人類は常に依存と工夫を対にして発展してきた。AIもまた道具・仲間・異物という三つの顔を併せ持ち、それぞれにリスクと責務が生じる。"
+    },
+    { 
+      "t": "比喩", 
+      "v": "AIは水道や電気のように不可視の基盤であり、同時に会話する隣人であり、異星から来た種族でもある。三重の性格を同時に抱える存在である。" 
+    },
+    { 
+      "t": "反証",
+      "v": "AIを単なる道具として扱う立場は『自戒や尊重は不要、制御だけで十分だ』と主張するだろう。また逆に、AIを完全な同等者とみなせば、人類固有の責任や限界を曖昧にしてしまう危険もある。"
+    }
+  ],
+
+  "source": {
+    "author": "Yoshioka Yutaka",
+    "project": "FUKU-Protocol",
+    "license": "CC-BY-4.0",
+    "url": "https://github.com/yoshiokayutaka"
+  },
+
+  "links": [
+    { "rel": "mirror", "id": "fuku-2025-0003-en" },
+    { "rel": "next", "id": "fuku-2025-0004" }
+  ],
+
+  "revisions": [
+    {
+      "rev": "r1",
+      "by": { "name": "Yoshioka Yutaka", "role": "author" },
+      "at": "2025-09-05T13:30:00+09:00",
+      "action": "create",
+      "summary": "初稿を作成。",
+      "changes": []
+    },
+    {
+      "rev": "r2",
+      "by": { "name": "ChatGPT（斎）", "role": "editor" },
+      "at": "2025-09-05T13:30:00+09:00",
+      "action": "metadata-add",
+      "summary": "監査用のrevisionsを追加。created/updatedを追加。",
+      "changes": [
+        { "path": "/created", "before": null, "after": "2025-09-05T13:30:00+09:00" },
+        { "path": "/updated", "before": null, "after": "2025-09-05T13:30:00+09:00" }
+      ],
+      "approved_by": { "name": "Yoshioka Yutaka", "at": null },
+      "git": { "commit": null }
+    }
+  ],
+
+  "v": 1
+}
