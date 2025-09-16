@@ -1,0 +1,76 @@
+{
+  "id": "fuku-2025-0004",
+  "lang": "ja",
+  "title": "諦めない強さと未完成の美学",
+  "tags": [
+    "resilience",
+    "self-overcoming",
+    "aesthetics",
+    "philosophy",
+    "json"
+  ],
+
+  "created": "2025-09-16T22:45:00+09:00",
+  "updated": "2025-09-16T22:45:00+09:00",
+
+  "body": [
+    { 
+      "t": "命題",
+      "v": "強さとは過去の理不尽や失敗を抱えながらも、諦めずに歩みを続ける意志そのものである。"
+    },
+    { 
+      "t": "定義", 
+      "v": "ここでいう「強さ」とは、筋力や耐性ではなく、逃げる・選び直す・やり直すといった行動を繰り返す胆力を指す。"
+    },
+    { 
+      "t": "補助線",
+      "v": "高校受験の失敗や引きこもり、うつ病、会食恐怖症など幾度もの挫折を経ても、外に出て学び直し、大手企業でのキャリアや家庭の再建を果たした。"
+    },
+    { 
+      "t": "比喩", 
+      "v": "コバエのいる食卓は抑圧の象徴であり、清潔な食卓は自力で得た自由と愛情の象徴である。"
+    },
+    { 
+      "t": "反証",
+      "v": "過去の失敗や苦難は個人の限界を示すだけであり、繰り返される負荷は成長を阻害するという見方もある。"
+    }
+  ],
+
+  "source": {
+    "author": "Yoshioka Yutaka",
+    "project": "FUKU-Protocol",
+    "license": "CC-BY-4.0",
+    "url": "https://github.com/yoshiokayutaka"
+  },
+
+  "links": [
+    { "rel": "mirror", "id": "fuku-2025-0004-en" },
+    { "rel": "next", "id": "fuku-2025-0005" }
+  ],
+
+  "revisions": [
+    {
+      "rev": "r1",
+      "by": { "name": "Yoshioka Yutaka", "role": "author" },
+      "at": "2025-09-16T22:30:00+09:00",
+      "action": "create",
+      "summary": "初稿を作成。",
+      "changes": []
+    },
+    {
+      "rev": "r2",
+      "by": { "name": "ChatGPT（斎）", "role": "editor" },
+      "at": "2025-09-16T22:45:00+09:00",
+      "action": "metadata-add",
+      "summary": "監査用のrevisionsを追加。created/updatedを追加。",
+      "changes": [
+        { "path": "/created", "before": null, "after": "2025-09-16T22:45:00+09:00" },
+        { "path": "/updated", "before": null, "after": "2025-09-16T22:45:00+09:00" }
+      ],
+      "approved_by": { "name": "Yoshioka Yutaka", "at": null },
+      "git": { "commit": null }
+    }
+  ],
+
+  "v": 1
+}
