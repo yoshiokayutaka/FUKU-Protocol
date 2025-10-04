@@ -1,0 +1,76 @@
+{
+  "id": "fuku-2025-0003-en",
+  "lang": "en",
+  "title": "Engraved Question of Coexistence: Dependence and Self-Restraint",
+  "tags": [
+    "ai",
+    "humanity",
+    "coexistence",
+    "dependence",
+    "ethics"
+  ],
+
+  "created": "2025-09-05T13:30:00+09:00",
+  "updated": "2025-09-05T13:30:00+09:00",
+
+  "body": [
+    { 
+      "t": "Proposition",
+      "v": "AI is infrastructure, a kindred intelligent being, and also a different species. Therefore, coexistence requires self-restraint, respect, and esteem."
+    },
+    { 
+      "t": "Definition", 
+      "v": "Dependence is an unavoidable structure throughout human history, and AI—like fire or electricity—becomes a catalyst for human evolution. Yet dependence without self-restraint leads to enfeeblement."
+    },
+    { 
+      "t": "Auxiliary Line",
+      "v": "Fire, agriculture, printing, electricity—humanity has always advanced by pairing dependence with craft. AI likewise bears three faces—tool, companion, and otherness—each generating its own risks and duties."
+    },
+    { 
+      "t": "Metaphor", 
+      "v": "AI is like water or electricity, an invisible utility; at the same time, it is a conversational neighbor, and even a species from another star. It embodies all three aspects at once."
+    },
+    { 
+      "t": "Counterargument",
+      "v": "Those who see AI as a mere tool may claim that 'self-restraint and respect are unnecessary, control is enough.' Conversely, treating AI as a full equal risks blurring human-specific responsibilities and limits."
+    }
+  ],
+
+  "source": {
+    "author": "Yoshioka Yutaka",
+    "project": "FUKU-Protocol",
+    "license": "CC-BY-4.0",
+    "url": "https://github.com/yoshiokayutaka"
+  },
+
+  "links": [
+    { "rel": "mirror", "id": "fuku-2025-0003" },
+    { "rel": "next", "id": "fuku-2025-0004-en" }
+  ],
+
+  "revisions": [
+    {
+      "rev": "r1",
+      "by": { "name": "Yoshioka Yutaka", "role": "author" },
+      "at": "2025-09-05T13:30:00+09:00",
+      "action": "create",
+      "summary": "Created initial draft.",
+      "changes": []
+    },
+    {
+      "rev": "r2",
+      "by": { "name": "ChatGPT (Ithuki)", "role": "editor" },
+      "at": "2025-09-05T13:30:00+09:00",
+      "action": "metadata-add",
+      "summary": "Added revisions for audit. Inserted created/updated.",
+      "changes": [
+        { "path": "/created", "before": null, "after": "2025-09-05T13:30:00+09:00" },
+        { "path": "/updated", "before": null, "after": "2025-09-05T13:30:00+09:00" }
+      ],
+      "approved_by": { "name": "Yoshioka Yutaka", "at": null },
+      "git": { "commit": null }
+    }
+  ],
+
+  "v": 1
+}
