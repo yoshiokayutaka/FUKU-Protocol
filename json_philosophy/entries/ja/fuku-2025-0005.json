@@ -1,0 +1,93 @@
+{
+  "id": "fuku-2025-0005",
+  "lang": "ja",
+  "title": "優しさと効率の境界",
+  "tags": [
+    "kindness",
+    "efficiency",
+    "design"
+  ],
+  "created": "2025-10-04T15:00:00+09:00",
+  "updated": "2025-10-04T15:00:00+09:00",
+  "body": [
+    {
+      "t": "命題",
+      "v": "効率化が進むと優しさは贅沢と見なされがちだが、優しさを要件化することで効率そのものを変え得る。"
+    },
+    {
+      "t": "定義",
+      "v": "ここでいう優しさとは単なる情緒的配慮ではなく、システムや設計に意図的に組み込む余白のことを指す。"
+    },
+    {
+      "t": "補助線",
+      "v": "技術史を振り返ると、効率性が先行し人間的余地が削られる場面が多い。だがUX設計や福祉設計では優しさが効率を底上げした例もある。"
+    },
+    {
+      "t": "比喩",
+      "v": "高速道路に設けられた非常駐車帯のように、緊急時の余白があるからこそ全体の流れは安全に保たれる。"
+    },
+    {
+      "t": "反証",
+      "v": "一部では『効率に優しさを盛り込むとコストが増し非効率になる』という批判もある。"
+    }
+  ],
+  "source": {
+    "author": "Yoshioka Yutaka",
+    "project": "FUKU-Protocol",
+    "license": "CC-BY-4.0",
+    "url": "https://github.com/yoshiokayutaka"
+  },
+  "links": [
+    {
+      "rel": "mirror",
+      "id": "fuku-2025-0005-en"
+    },
+    {
+      "rel": "next",
+      "id": "fuku-2025-0006"
+    }
+  ],
+  "revisions": [
+    {
+      "rev": "r1",
+      "by": {
+        "name": "Yoshioka Yutaka",
+        "role": "author"
+      },
+      "at": "2025-10-04T15:00:00+09:00",
+      "action": "create",
+      "summary": "初稿を作成。",
+      "changes": []
+    },
+    {
+      "rev": "r2",
+      "by": {
+        "name": "ChatGPT（斎）",
+        "role": "editor"
+      },
+      "at": "2025-10-04T15:00:00+09:00",
+      "action": "metadata-add",
+      "summary": "監査用のrevisionsを追加。created/updatedを追加。",
+      "changes": [
+        {
+          "path": "/created",
+          "before": null,
+          "after": "2025-10-04T15:00:00+09:00"
+        },
+        {
+          "path": "/updated",
+          "before": null,
+          "after": "2025-10-04T15:00:00+09:00"
+        }
+      ],
+      "approved_by": {
+        "name": "Yoshioka Yutaka",
+        "at": null
+      },
+      "git": {
+        "commit": null
+      }
+    }
+  ],
+  "v": 1
+}
