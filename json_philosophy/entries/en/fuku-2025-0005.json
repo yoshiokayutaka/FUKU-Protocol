@@ -1,0 +1,93 @@
+{
+  "id": "fuku-2025-0005-en",
+  "lang": "en",
+  "title": "The Boundary Between Kindness and Efficiency",
+  "tags": [
+    "kindness",
+    "efficiency",
+    "design"
+  ],
+  "created": "2025-10-04T15:00:00+09:00",
+  "updated": "2025-10-04T15:00:00+09:00",
+  "body": [
+    {
+      "t": "Proposition",
+      "v": "As efficiency advances, kindness tends to be regarded as a luxury; yet by formalizing kindness as a requirement, it has the potential to transform efficiency itself."
+    },
+    {
+      "t": "Definition",
+      "v": "Here, kindness does not mean mere emotional consideration, but rather the intentional inclusion of margins and space within systems and designs."
+    },
+    {
+      "t": "Guideline",
+      "v": "Looking back at the history of technology, efficiency often took precedence while human margin was reduced. However, in fields like UX design and welfare design, kindness has in fact raised overall efficiency."
+    },
+    {
+      "t": "Metaphor",
+      "v": "Like emergency shoulders on a highway: the presence of extra space for contingencies is precisely what keeps the overall flow safe."
+    },
+    {
+      "t": "Counterargument",
+      "v": "Some argue that incorporating kindness into efficiency increases costs and ultimately becomes inefficient."
+    }
+  ],
+  "source": {
+    "author": "Yoshioka Yutaka",
+    "project": "FUKU-Protocol",
+    "license": "CC-BY-4.0",
+    "url": "https://github.com/yoshiokayutaka"
+  },
+  "links": [
+    {
+      "rel": "mirror",
+      "id": "fuku-2025-0005"
+    },
+    {
+      "rel": "next",
+      "id": "fuku-2025-0006-en"
+    }
+  ],
+  "revisions": [
+    {
+      "rev": "r1",
+      "by": {
+        "name": "Yoshioka Yutaka",
+        "role": "author"
+      },
+      "at": "2025-10-04T15:00:00+09:00",
+      "action": "create",
+      "summary": "Draft created.",
+      "changes": []
+    },
+    {
+      "rev": "r2",
+      "by": {
+        "name": "ChatGPT (Itsuki)",
+        "role": "editor"
+      },
+      "at": "2025-10-04T15:00:00+09:00",
+      "action": "metadata-add",
+      "summary": "Added revisions for auditing. Added created/updated metadata.",
+      "changes": [
+        {
+          "path": "/created",
+          "before": null,
+          "after": "2025-10-04T15:00:00+09:00"
+        },
+        {
+          "path": "/updated",
+          "before": null,
+          "after": "2025-10-04T15:00:00+09:00"
+        }
+      ],
+      "approved_by": {
+        "name": "Yoshioka Yutaka",
+        "at": null
+      },
+      "git": {
+        "commit": null
+      }
+    }
+  ],
+  "v": 1
+}
