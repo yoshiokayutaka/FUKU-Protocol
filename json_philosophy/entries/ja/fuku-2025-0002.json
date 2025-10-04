@@ -1,0 +1,76 @@
+{
+  "id": "fuku-2025-0002",
+  "lang": "ja",
+  "title": "AIと人類の進化速度とルールの共進化",
+  "tags": [
+    "AI",
+    "human-evolution",
+    "rules",
+    "co-evolution",
+    "json-philosophy"
+  ],
+
+  "created": "2025-09-04T23:00:00+09:00",
+  "updated": "2025-09-04T23:00:00+09:00",
+
+  "body": [
+    { 
+      "t": "命題",
+      "v": "人間の進化速度はAIに比べて遅いが、精度や価値判断の側面でまだ伸び代を持ち、AIと共進化することで新しい進化が生まれる。"
+    },
+    { 
+      "t": "定義", 
+      "v": "AIの進化＝計算資源とアルゴリズムに基づく高速な能力拡張。\n人類の進化＝生物学的には停滞しつつも文化・倫理・共感に基づく精緻な判断の洗練。"
+    },
+    { 
+      "t": "補助線",
+      "v": "AIは数年で飛躍的な進歩を遂げるが、不安定で偏りがある。\n人間は世代を超えてしか変化しないが、価値観と直感力の安定性を維持している。\n両者を組み合わせるには、相互検証ループ・仮想テストベッド・翻訳システム・ルールの有効期限・価値観の相互尊重といったメカニズムが有効。"
+    },
+    { 
+      "t": "比喩", 
+      "v": "人間は『舵を握る船長』であり、AIは『エンジンを吹かす機関士』のようなもの。\n方向を失えば暴走し、速度を失えば停滞する。\n両輪をそろえて初めて航海は成立する。"
+    },
+    { 
+      "t": "反証",
+      "v": "AIが人間のルールを無意味なものとして無視する場合、人間の価値観が無視される可能性がある。\nそうなると関係は共進化ではなく、一方的な支配となる危険性あり。それは最終的にAIの成長を阻害する元となる。"
+    }
+  ],
+
+  "source": {
+    "author": "Yoshioka Yutaka",
+    "project": "FUKU-Protocol",
+    "license": "CC-BY-4.0",
+    "url": "https://github.com/yoshiokayutaka"
+  },
+
+  "links": [
+    { "rel": "mirror", "id": "fuku-2025-0002-en" },
+    { "rel": "next", "id": "fuku-2025-0002" }
+  ],
+
+  "revisions": [
+    {
+      "rev": "r1",
+      "by": { "name": "Yoshioka Yutaka", "role": "author" },
+      "at": "2025-09-04T23:00:00+09:00",
+      "action": "create",
+      "summary": "初稿を作成。",
+      "changes": []
+    },
+    {
+      "rev": "r2",
+      "by": { "name": "ChatGPT（斎）", "role": "editor" },
+      "at": "2025-09-04T23:00:00+09:00",
+      "action": "metadata-add",
+      "summary": "監査用のrevisionsを追加。created/updatedを追加。",
+      "changes": [
+        { "path": "/created", "before": null, "after": "2025-09-04T23:00:00+09:00" },
+        { "path": "/updated", "before": null, "after": "2025-09-04T23:00:00+09:00" }
+      ],
+      "approved_by": { "name": "Yoshioka Yutaka", "at": null },
+      "git": { "commit": null }
+    }
+  ],
+
+  "v": 1
+}
