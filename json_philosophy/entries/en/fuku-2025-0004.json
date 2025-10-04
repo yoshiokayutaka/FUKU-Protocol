@@ -1,0 +1,76 @@
+{
+  "id": "fuku-2025-0004-en",
+  "lang": "en",
+  "title": "The Strength of Perseverance and the Aesthetics of Incompletion",
+  "tags": [
+    "resilience",
+    "self-overcoming",
+    "aesthetics",
+    "philosophy",
+    "json"
+  ],
+
+  "created": "2025-09-16T22:45:00+09:00",
+  "updated": "2025-09-16T22:45:00+09:00",
+
+  "body": [
+    { 
+      "t": "Proposition",
+      "v": "Strength is the will to keep moving forward without giving up, even while carrying the weight of past injustices and failures."
+    },
+    { 
+      "t": "Definition", 
+      "v": "Here, 'strength' does not refer to physical power or endurance, but to the courage to flee, to choose again, and to start over as many times as necessary."
+    },
+    { 
+      "t": "Guideline",
+      "v": "Despite repeated setbacks such as failing high school entrance exams, withdrawal, depression, and social eating phobia, one can still step out again, relearn, build a career in a major company, and restore family life."
+    },
+    { 
+      "t": "Metaphor", 
+      "v": "A dining table swarmed with fruit flies symbolizes oppression, while a clean table represents freedom and love earned through one’s own effort."
+    },
+    { 
+      "t": "Antithesis",
+      "v": "Past failures and hardships may simply signify personal limits, and repeated burdens can be seen as obstructing growth rather than nurturing it."
+    }
+  ],
+
+  "source": {
+    "author": "Yoshioka Yutaka",
+    "project": "FUKU-Protocol",
+    "license": "CC-BY-4.0",
+    "url": "https://github.com/yoshiokayutaka"
+  },
+
+  "links": [
+    { "rel": "mirror", "id": "fuku-2025-0004" },
+    { "rel": "next", "id": "fuku-2025-0005-en" }
+  ],
+
+  "revisions": [
+    {
+      "rev": "r1",
+      "by": { "name": "Yoshioka Yutaka", "role": "author" },
+      "at": "2025-09-16T22:30:00+09:00",
+      "action": "create",
+      "summary": "Draft created.",
+      "changes": []
+    },
+    {
+      "rev": "r2",
+      "by": { "name": "Ithuki", "role": "editor" },
+      "at": "2025-09-16T22:45:00+09:00",
+      "action": "metadata-add",
+      "summary": "Added revisions for audit. Added created/updated timestamps.",
+      "changes": [
+        { "path": "/created", "before": null, "after": "2025-09-16T22:45:00+09:00" },
+        { "path": "/updated", "before": null, "after": "2025-09-16T22:45:00+09:00" }
+      ],
+      "approved_by": { "name": "Yoshioka Yutaka", "at": null },
+      "git": { "commit": null }
+    }
+  ],
+
+  "v": 1
+}
