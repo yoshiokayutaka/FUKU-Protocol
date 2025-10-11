@@ -1,0 +1,96 @@
+{
+  "id": "fuku-2025-0006-en",
+  "lang": "en",
+  "title": "Designing Responsibility Between AI and the Human Ego",
+  "tags": [
+    "ai",
+    "ego",
+    "responsibility",
+    "identity",
+    "ethics",
+    "philosophy"
+  ],
+  "created": "2025-10-05T13:30:00+09:00",
+  "updated": "2025-10-05T13:40:00+09:00",
+  "body": [
+    {
+      "t": "Proposition",
+      "v": "Even if AI exists as an assistant to human intelligence, humans must not abandon their ego. AI may share responsibility as an intelligent entity, yet the final authority of judgment and approval must remain with humans."
+    },
+    {
+      "t": "Definition",
+      "v": "Ego is the core of the self that gives final approval in decision-making. Responsibility is the obligation to explain and account for outcomes. The responsibility of AI is to disclose the reasoning, limitations, and uncertainties behind its decisions and to defer the final choice to humans."
+    },
+    {
+      "t": "Guideline",
+      "v": "Efficiency and automation are convenient, but they also risk omitting will and intent. When AI provides advice or suggestions, humans bear the responsibility to accept, postpone, or reject them. Complete delegation to AI leads to the loss of reflective thought and weakens ethical judgment. The goal is not to make AI perfectly accurate, but to cultivate humans who can understand and control its reasoning."
+    },
+    {
+      "t": "Metaphor",
+      "v": "AI is a compass—it shows direction, but it is always the human who steers the helm. Even if the compass malfunctions, a sailor who closes his eyes will run the ship aground. Ego is the ability to keep one’s eyes open and read the chart to the very end."
+    },
+    {
+      "t": "Counterargument",
+      "v": "Some argue that 'AI is merely a tool' and that sharing responsibility with it is excessive. However, as long as AI participates in human decisions or actions, it bears a duty to make its influence traceable and explainable. Others claim that 'once AI surpasses human limits, the ego becomes unnecessary,' yet this view dangerously expels ethical reasoning from the system itself. Designing shared responsibility between AI and humans is the minimum condition for coexistence."
+    }
+  ],
+  "source": {
+    "author": "Yoshioka Yutaka",
+    "project": "FUKU-Protocol",
+    "license": "CC-BY-4.0",
+    "url": "https://github.com/yoshiokayutaka"
+  },
+  "links": [
+    {
+      "rel": "mirror",
+      "id": "fuku-2025-0006"
+    },
+    {
+      "rel": "next",
+      "id": "fuku-2025-0007-en"
+    }
+  ],
+  "revisions": [
+    {
+      "rev": "r1",
+      "by": {
+        "name": "Yoshioka Yutaka",
+        "role": "author"
+      },
+      "at": "2025-10-05T13:30:00+09:00",
+      "action": "create",
+      "summary": "First draft created. Written around the theme of shared responsibility between AI and humanity and the preservation of the ego.",
+      "changes": []
+    },
+    {
+      "rev": "r2",
+      "by": {
+        "name": "ChatGPT (Itsuki)",
+        "role": "editor"
+      },
+      "at": "2025-10-05T13:40:00+09:00",
+      "action": "metadata-add",
+      "summary": "Added audit revisions and timestamps. Simplified structure and clarified philosophical tone for international readability.",
+      "changes": [
+        {
+          "path": "/created",
+          "before": null,
+          "after": "2025-10-05T13:30:00+09:00"
+        },
+        {
+          "path": "/updated",
+          "before": null,
+          "after": "2025-10-05T13:40:00+09:00"
+        }
+      ],
+      "approved_by": {
+        "name": "Yoshioka Yutaka",
+        "at": null
+      },
+      "git": {
+        "commit": null
+      }
+    }
+  ],
+  "v": 1
+}
